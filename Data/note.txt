@@ -1,1 +1,2 @@
-
+Data source: IBM Telco Customer Churn dataset. 
+Download from: kaggle.com/datasets/blastchar/telco-customer-churn"
