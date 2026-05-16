@@ -1,0 +1,5 @@
+tenure_band,total_customers,churned,churn_rate_pct,avg_monthly_charges
+1. New (0–12 months),2186,1037.0,47.4,56.1
+2. Developing (13–24 months),1024,294.0,28.7,61.36
+3. Established (25–48 months),1594,325.0,20.4,65.93
+4. Loyal (49+ months),2239,213.0,9.5,73.95

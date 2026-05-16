@@ -1,0 +1,1410 @@
+customer_idx,churn_probability,actual_churn,risk_level,top_churn_driver_1,top_churn_driver_2,top_churn_driver_3
+1213,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.071,Tenure Months: +0.093
+1620,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.190,Contract_Two year: +0.044
+53,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.143,Tenure Months: +0.068
+1471,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.177,Tenure Months: +0.109
+931,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.109,Tenure Months: +0.110
+224,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.079,Tenure Months: +0.071
+582,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.188,Internet Service_Fiber optic: +0.057
+784,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.143,Internet Service_Fiber optic: +0.063
+63,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.109,Tenure Months: +0.100
+1719,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.117,Tenure Months: +0.105
+1468,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.255,Monthly Charges: +0.039
+250,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.189,Contract_Two year: +0.040
+601,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.186,Internet Service_Fiber optic: +0.060
+799,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.095,Tenure Months: +0.082
+1203,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.071,Tenure Months: +0.093
+172,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.073,Tenure Months: +0.091
+1240,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.206,Contract_Two year: +0.048
+725,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.134,Internet Service_Fiber optic: +0.060
+1776,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.077,Tenure Months: +0.089
+652,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.093,Tenure Months: +0.096
+1010,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.160,Contract_Two year: +0.045
+571,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.073,Tenure Months: +0.090
+1411,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.137,Internet Service_Fiber optic: +0.063
+1360,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.112,Internet Service_Fiber optic: +0.061
+453,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.071,Tenure Months: +0.094
+18,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.099,Internet Service_Fiber optic: +0.055
+1119,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.191,Contract_Two year: +0.040
+170,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.200,Contract_Two year: +0.040
+236,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.073,Tenure Months: +0.080
+1032,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.105,Internet Service_Fiber optic: +0.060
+1812,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.166,Internet Service_Fiber optic: +0.058
+778,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.164,Contract_Two year: +0.046
+1092,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.077,Tenure Months: +0.072
+268,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.131,Internet Service_Fiber optic: +0.064
+404,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.076,Tenure Months: +0.080
+1850,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.189,Internet Service_Fiber optic: +0.038
+958,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.257,Contract_Two year: +0.042
+1546,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.098,Tenure Months: +0.092
+1336,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.165,Contract_Two year: +0.051
+244,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.188,Contract_Two year: +0.043
+1422,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.097,Internet Service_Fiber optic: +0.069
+731,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.073,Tenure Months: +0.088
+1129,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.217,Contract_Two year: +0.036
+1044,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.082,Internet Service_Fiber optic: +0.071
+374,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.103,Internet Service_Fiber optic: +0.060
+144,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.096,Tenure Months: +0.094
+315,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.131,Internet Service_Fiber optic: +0.062
+1337,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.074,Tenure Months: +0.091
+1527,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.143,Internet Service_Fiber optic: +0.062
+44,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.151,Tenure Months: +0.101
+656,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.170,Internet Service_Fiber optic: +0.065
+1625,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.208,Tenure Months: +0.079
+1029,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.162,Internet Service_Fiber optic: +0.058
+1070,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.177,Tenure Months: +0.103
+975,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.208,Tenure Months: +0.086
+1756,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.071,Tenure Months: +0.094
+277,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.126,Internet Service_Fiber optic: +0.062
+1262,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.102,Tenure Months: +0.110
+493,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.175,Internet Service_Fiber optic: +0.065
+579,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.070,Tenure Months: +0.092
+1808,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.127,Internet Service_Fiber optic: +0.075
+1534,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.071,Tenure Months: +0.094
+502,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.160,Internet Service_Fiber optic: +0.058
+464,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.071,Tenure Months: +0.094
+1853,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.103,Internet Service_Fiber optic: +0.071
+795,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.118,Tenure Months: +0.101
+662,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.128,Internet Service_Fiber optic: +0.069
+1311,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.099,Internet Service_Fiber optic: +0.073
+1580,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.083,Internet Service_Fiber optic: +0.071
+1271,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.142,Internet Service_Fiber optic: +0.062
+1220,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.098,Tenure Months: +0.092
+1256,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.113,Internet Service_Fiber optic: +0.057
+1482,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.177,Tenure Months: +0.109
+1293,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.133,Internet Service_Fiber optic: +0.063
+406,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.131,Tenure Months: +0.112
+460,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.155,Internet Service_Fiber optic: +0.062
+15,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.166,Internet Service_Fiber optic: +0.057
+1354,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.077,Internet Service_Fiber optic: +0.071
+1677,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.151,Tenure Months: +0.127
+415,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.143,Contract_Two year: +0.049
+1307,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.217,Internet Service_Fiber optic: +0.041
+629,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.285,Monthly Charges: +0.075
+709,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.190,Contract_Two year: +0.047
+462,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.077,Tenure Months: +0.088
+1404,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.073,Tenure Months: +0.080
+1729,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.217,Streaming Movies: +0.043
+732,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.077,Internet Service_Fiber optic: +0.071
+495,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.148,Tenure Months: +0.113
+826,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.099,Tenure Months: +0.083
+422,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.129,Internet Service_Fiber optic: +0.071
+1015,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.241,Contract_Two year: +0.042
+287,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.130,Internet Service_Fiber optic: +0.063
+397,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.104,Internet Service_Fiber optic: +0.060
+1840,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.304,Internet Service_Fiber optic: +0.035
+969,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.277,Monthly Charges: +0.085
+1310,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.106,Internet Service_Fiber optic: +0.061
+1782,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.071,Tenure Months: +0.093
+1237,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.136,Tenure Months: +0.101
+528,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.219,Contract_Two year: +0.043
+282,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.098,Internet Service_Fiber optic: +0.073
+1323,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.073,Tenure Months: +0.091
+998,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.226,Tenure Months: +0.062
+605,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.166,Contract_Two year: +0.050
+140,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.162,Internet Service_Fiber optic: +0.065
+949,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.213,Tenure Months: +0.051
+1260,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.204,Internet Service_Fiber optic: +0.046
+674,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.147,Contract_Two year: +0.037
+1767,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.306,Internet Service_Fiber optic: +0.036
+1450,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.161,Tenure Months: +0.083
+380,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.095,Tenure Months: +0.083
+112,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.137,Internet Service_Fiber optic: +0.062
+162,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.095,Tenure Months: +0.093
+1268,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.144,Internet Service_Fiber optic: +0.063
+1791,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.151,Contract_Two year: +0.048
+1357,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.102,Tenure Months: +0.102
+1405,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.131,Internet Service_Fiber optic: +0.062
+581,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.189,Internet Service_Fiber optic: +0.038
+1557,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.135,Payment Method_Electronic check: +0.038
+1774,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.099,Tenure Months: +0.092
+1424,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.141,Contract_Two year: +0.049
+367,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.153,Internet Service_Fiber optic: +0.061
+619,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.093,Tenure Months: +0.094
+1116,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.207,Tenure Months: +0.085
+1216,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.106,Internet Service_Fiber optic: +0.058
+1635,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.073,Tenure Months: +0.091
+684,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.076,Internet Service_Fiber optic: +0.071
+456,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.071,Tenure Months: +0.094
+607,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.102,Internet Service_Fiber optic: +0.069
+383,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.149,Tenure Months: +0.108
+569,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.137,Internet Service_Fiber optic: +0.062
+848,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.173,Internet Service_Fiber optic: +0.064
+193,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.112,Tenure Months: +0.101
+238,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.098,Tenure Months: +0.092
+843,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.217,Streaming Movies: +0.043
+902,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.161,Tenure Months: +0.083
+926,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.142,Internet Service_Fiber optic: +0.062
+414,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.163,Contract_Two year: +0.041
+158,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.071,Tenure Months: +0.091
+1497,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.071,Tenure Months: +0.094
+1086,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.153,Contract_Two year: +0.039
+418,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.080,Tenure Months: +0.090
+1139,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.077,Internet Service_Fiber optic: +0.071
+1204,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.112,Internet Service_Fiber optic: +0.060
+29,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.175,Internet Service_Fiber optic: +0.056
+389,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.189,Internet Service_Fiber optic: +0.038
+1130,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.148,Internet Service_Fiber optic: +0.062
+637,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.109,Internet Service_Fiber optic: +0.067
+525,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.126,Internet Service_Fiber optic: +0.062
+617,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.154,Tenure Months: +0.116
+980,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.140,Tenure Months: +0.065
+164,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.193,Contract_Two year: +0.043
+1862,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.144,Tenure Months: +0.059
+240,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.142,Tenure Months: +0.104
+1859,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.095,Tenure Months: +0.093
+893,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.166,Internet Service_Fiber optic: +0.058
+1286,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.149,Internet Service_Fiber optic: +0.062
+1325,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.177,Tenure Months: +0.104
+1028,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.074,Tenure Months: +0.090
+837,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.196,Contract_Two year: +0.041
+134,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.158,Internet Service_Fiber optic: +0.061
+881,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.109,Tenure Months: +0.110
+1578,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.191,Contract_Two year: +0.044
+891,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.147,Tenure Months: +0.068
+1387,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.092,Tenure Months: +0.094
+149,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.137,Contract_Two year: +0.042
+1018,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.141,Internet Service_Fiber optic: +0.063
+1334,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.250,Payment Method_Electronic check: +0.041
+1011,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.257,Contract_Two year: +0.042
+75,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.127,Internet Service_Fiber optic: +0.062
+713,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.073,Tenure Months: +0.090
+961,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.177,Tenure Months: +0.109
+1027,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.151,Tenure Months: +0.098
+972,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.106,Internet Service_Fiber optic: +0.060
+1454,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.165,Contract_Two year: +0.051
+1665,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.103,Internet Service_Fiber optic: +0.073
+1778,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.180,Internet Service_Fiber optic: +0.065
+387,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.128,Internet Service_Fiber optic: +0.071
+590,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.071,Tenure Months: +0.091
+1510,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.077,Tenure Months: +0.093
+1459,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.073,Tenure Months: +0.088
+829,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.169,Contract_Two year: +0.047
+574,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.099,Internet Service_Fiber optic: +0.073
+1416,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.071,Tenure Months: +0.093
+1727,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.095,Tenure Months: +0.093
+915,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.110,Tenure Months: +0.107
+1845,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.139,Internet Service_Fiber optic: +0.063
+186,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.109,Internet Service_Fiber optic: +0.057
+98,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.097,Tenure Months: +0.094
+375,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.100,Internet Service_Fiber optic: +0.073
+638,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.171,Internet Service_Fiber optic: +0.040
+1698,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.102,Tenure Months: +0.110
+1514,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.098,Internet Service_Fiber optic: +0.073
+1272,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.073,Tenure Months: +0.091
+47,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.116,Tenure Months: +0.111
+303,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.191,Contract_Two year: +0.043
+875,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.133,Tenure Months: +0.113
+519,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.160,Internet Service_Fiber optic: +0.066
+1549,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.206,Contract_Two year: +0.046
+981,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.130,Tenure Months: +0.085
+43,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.121,Tenure Months: +0.058
+1689,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.177,Tenure Months: +0.104
+1362,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.203,Contract_Two year: +0.049
+923,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.215,Internet Service_Fiber optic: +0.041
+977,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.129,Internet Service_Fiber optic: +0.062
+918,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.167,Internet Service_Fiber optic: +0.059
+825,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.177,Tenure Months: +0.104
+964,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.071,Tenure Months: +0.093
+758,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.071,Tenure Months: +0.094
+115,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.132,Contract_Two year: +0.045
+261,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.135,Contract_Two year: +0.044
+1235,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.177,Tenure Months: +0.098
+791,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.160,Internet Service_Fiber optic: +0.056
+1553,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.215,Streaming Movies: +0.043
+1676,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.174,Internet Service_Fiber optic: +0.065
+370,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.098,Tenure Months: +0.080
+719,0.9998,1,High,Churn Value: +7.327,Churn Score: +1.096,Tenure Months: +0.092
+1745,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.294,Internet Service_Fiber optic: +0.094
+145,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.340,Tenure Months: +0.160
+1818,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.319,Tenure Months: +0.178
+1657,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.340,Tenure Months: +0.172
+89,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.340,Tenure Months: +0.172
+200,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.343,Tenure Months: +0.179
+803,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.328,Tenure Months: +0.143
+1016,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.315,Tenure Months: +0.162
+284,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.296,Tenure Months: +0.171
+280,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.290,Tenure Months: +0.183
+807,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.292,Tenure Months: +0.159
+623,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.343,Tenure Months: +0.176
+1198,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.314,Tenure Months: +0.178
+1760,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.319,Tenure Months: +0.181
+1681,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.336,Tenure Months: +0.141
+490,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.284,Tenure Months: +0.168
+917,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.288,Tenure Months: +0.133
+1633,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.288,Tenure Months: +0.131
+762,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.317,Tenure Months: +0.189
+124,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.340,Tenure Months: +0.172
+783,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.276,Contract_Two year: +0.091
+1212,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.340,Tenure Months: +0.172
+641,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.372,Tenure Months: +0.176
+655,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.321,Tenure Months: +0.192
+1538,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.321,Tenure Months: +0.191
+1225,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.347,Tenure Months: +0.177
+223,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.329,Tenure Months: +0.137
+354,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.315,Contract_Two year: +0.092
+598,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.343,Tenure Months: +0.179
+770,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.310,Tenure Months: +0.156
+988,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.295,Tenure Months: +0.160
+1053,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.332,Tenure Months: +0.159
+1106,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.369,Tenure Months: +0.170
+1187,0.9997,1,High,Churn Value: +7.327,Churn Score: +1.255,Payment Method_Electronic check: +0.038
+978,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.340,Tenure Months: +0.169
+1570,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.342,Tenure Months: +0.177
+399,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.321,Tenure Months: +0.181
+362,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.311,Tenure Months: +0.140
+809,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.311,Tenure Months: +0.140
+1485,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.252,Internet Service_Fiber optic: +0.097
+1481,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.370,Tenure Months: +0.170
+654,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.330,Internet Service_Fiber optic: +0.085
+1868,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.317,Tenure Months: +0.175
+753,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.343,Tenure Months: +0.179
+1827,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.309,Tenure Months: +0.169
+1848,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.340,Tenure Months: +0.162
+588,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.312,Tenure Months: +0.141
+886,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.318,Tenure Months: +0.179
+470,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.317,Tenure Months: +0.179
+808,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.270,Tenure Months: +0.174
+1314,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.365,Tenure Months: +0.126
+985,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.340,Tenure Months: +0.162
+570,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.313,Tenure Months: +0.168
+1671,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.315,Tenure Months: +0.161
+1339,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.295,Tenure Months: +0.179
+11,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.266,Tenure Months: +0.192
+129,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.340,Tenure Months: +0.169
+1170,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.340,Tenure Months: +0.161
+1447,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.301,Contract_Two year: +0.089
+446,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.317,Tenure Months: +0.174
+1517,0.9997,1,High,Churn Value: +7.327,Churn Score: +0.294,Internet Service_Fiber optic: +0.094
+1148,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.297,Contract_Two year: +0.089
+999,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.263,Internet Service_Fiber optic: +0.099
+1615,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.231,Internet Service_Fiber optic: +0.113
+810,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.298,Tenure Months: +0.212
+452,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.276,Tenure Months: +0.199
+135,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.248,Internet Service_Fiber optic: +0.093
+257,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.215,Internet Service_Fiber optic: +0.102
+1279,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.283,Tenure Months: +0.186
+194,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.277,Tenure Months: +0.202
+796,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.243,Tenure Months: +0.214
+691,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.249,Internet Service_Fiber optic: +0.094
+1161,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.230,Internet Service_Fiber optic: +0.098
+1618,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.254,Tenure Months: +0.166
+489,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.239,Tenure Months: +0.208
+33,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.292,Tenure Months: +0.213
+1083,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.254,Internet Service_Fiber optic: +0.098
+482,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.301,Tenure Months: +0.194
+1475,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.247,Internet Service_Fiber optic: +0.099
+477,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.326,Tenure Months: +0.195
+879,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.226,Tenure Months: +0.214
+349,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.263,Tenure Months: +0.199
+1674,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.240,Tenure Months: +0.239
+252,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.234,Internet Service_Fiber optic: +0.115
+1817,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.282,Tenure Months: +0.188
+227,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.285,Tenure Months: +0.199
+1012,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.241,Tenure Months: +0.140
+16,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.255,Tenure Months: +0.157
+555,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.296,Contract_Two year: +0.087
+1350,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.303,Internet Service_Fiber optic: +0.095
+71,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.245,Internet Service_Fiber optic: +0.096
+494,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.297,Contract_Two year: +0.087
+1685,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.218,Tenure Months: +0.202
+952,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.263,Tenure Months: +0.199
+1164,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.243,Tenure Months: +0.214
+120,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.269,Internet Service_Fiber optic: +0.094
+830,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.234,Internet Service_Fiber optic: +0.099
+925,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.284,Internet Service_Fiber optic: +0.100
+1356,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.285,Internet Service_Fiber optic: +0.098
+365,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.243,Tenure Months: +0.215
+1630,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.251,Tenure Months: +0.157
+1609,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.277,Tenure Months: +0.198
+1857,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.253,Tenure Months: +0.205
+834,0.9996,1,High,Churn Value: +7.327,Tenure Months: +0.212,Churn Score: +0.206
+717,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.247,Tenure Months: +0.150
+702,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.252,Contract_Two year: +0.086
+1599,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.257,Tenure Months: +0.201
+428,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.248,Internet Service_Fiber optic: +0.099
+1048,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.272,Internet Service_Fiber optic: +0.098
+297,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.266,Tenure Months: +0.199
+1169,0.9996,1,High,Churn Value: +7.327,Churn Score: +0.277,Internet Service_Fiber optic: +0.108
+1358,0.9995,1,High,Churn Value: +7.327,Churn Score: +0.178,Internet Service_Fiber optic: +0.115
+797,0.9995,1,High,Churn Value: +7.327,Churn Score: +0.231,Internet Service_Fiber optic: +0.109
+857,0.9995,1,High,Churn Value: +7.327,Churn Score: +0.253,Contract_Two year: +0.070
+533,0.9995,1,High,Churn Value: +7.327,Churn Score: +0.262,Internet Service_Fiber optic: +0.091
+1795,0.9995,1,High,Churn Value: +7.327,Churn Score: +0.227,Tenure Months: +0.221
+5,0.9995,1,High,Churn Value: +7.327,Churn Score: +0.262,Tenure Months: +0.120
+773,0.9995,1,High,Churn Value: +7.327,Tenure Months: +0.216,Churn Score: +0.193
+1732,0.9995,1,High,Churn Value: +7.327,Churn Score: +0.257,Internet Service_Fiber optic: +0.107
+1641,0.9995,1,High,Churn Value: +7.327,Churn Score: +0.214,Internet Service_Fiber optic: +0.087
+1513,0.9995,1,High,Churn Value: +7.327,Churn Score: +0.208,Internet Service_Fiber optic: +0.108
+147,0.9995,1,High,Churn Value: +7.327,Churn Score: +0.201,Contract_Two year: +0.079
+657,0.9995,1,High,Churn Value: +7.327,Tenure Months: +0.207,Churn Score: +0.160
+840,0.9995,1,High,Churn Value: +7.327,Churn Score: +0.237,Tenure Months: +0.232
+431,0.9995,1,High,Churn Value: +7.327,Churn Score: +0.236,Internet Service_Fiber optic: +0.107
+102,0.9995,1,High,Churn Value: +7.327,Churn Score: +0.245,Internet Service_Fiber optic: +0.101
+750,0.9995,1,High,Churn Value: +7.327,Churn Score: +0.232,Internet Service_Fiber optic: +0.087
+440,0.9995,1,High,Churn Value: +7.327,Churn Score: +0.207,Internet Service_Fiber optic: +0.104
+430,0.9995,1,High,Churn Value: +7.327,Churn Score: +0.218,Contract_Two year: +0.072
+1316,0.9995,1,High,Churn Value: +7.327,Churn Score: +0.222,Contract_Two year: +0.078
+1824,0.9994,1,High,Churn Value: +7.327,Churn Score: +0.242,Contract_Two year: +0.076
+1340,0.9994,1,High,Churn Value: +7.327,Churn Score: +0.148,Internet Service_Fiber optic: +0.082
+12,0.9994,1,High,Churn Value: +7.327,Churn Score: +0.140,Internet Service_Fiber optic: +0.080
+220,0.9994,1,High,Churn Value: +7.327,Churn Score: +0.231,Payment Method_Electronic check: +0.069
+25,0.9994,1,High,Churn Value: +7.327,Churn Score: +0.171,Contract_Two year: +0.079
+1253,0.9994,1,High,Churn Value: +7.327,Churn Score: +0.165,Internet Service_Fiber optic: +0.062
+648,0.9994,1,High,Churn Value: +7.327,Churn Score: +0.211,Contract_Two year: +0.074
+1532,0.9994,1,High,Churn Value: +7.327,Tenure Months: +0.149,Churn Score: +0.136
+26,0.9994,1,High,Churn Value: +7.327,Churn Score: +0.171,Internet Service_Fiber optic: +0.088
+1088,0.9993,1,High,Churn Value: +7.327,Churn Score: +0.135,Internet Service_Fiber optic: +0.076
+1073,0.9993,1,High,Churn Value: +7.327,Churn Score: +0.183,Contract_Two year: +0.060
+1151,0.9993,1,High,Churn Value: +7.327,Churn Score: +0.185,Contract_Two year: +0.076
+1094,0.9992,1,High,Churn Value: +7.327,Churn Score: +0.159,Contract_Two year: +0.073
+1001,0.9992,1,High,Churn Value: +7.327,Churn Score: +0.132,Contract_Two year: +0.076
+1217,0.9992,1,High,Churn Value: +7.327,Churn Score: +0.169,Contract_Two year: +0.069
+1743,0.9992,1,High,Churn Value: +7.327,Churn Score: +0.121,Contract_Two year: +0.073
+143,0.9992,1,High,Churn Value: +7.327,Churn Score: +0.132,Contract_Two year: +0.071
+1555,0.9992,1,High,Churn Value: +7.327,Churn Score: +0.140,Contract_Two year: +0.066
+121,0.9992,1,High,Churn Value: +7.327,Churn Score: +0.098,Contract_Two year: +0.078
+883,0.9992,1,High,Churn Value: +7.327,Churn Score: +0.107,Contract_Two year: +0.067
+1390,0.9992,1,High,Churn Value: +7.327,Churn Score: +0.124,Contract_Two year: +0.072
+165,0.9991,1,High,Churn Value: +7.327,Churn Score: +0.102,Tenure Months: +0.100
+1378,0.9991,1,High,Churn Value: +7.327,Contract_Two year: +0.068,Churn Score: +0.061
+1003,0.9991,1,High,Churn Value: +7.327,CLTV: +0.082,Churn Score: +0.075
+589,0.999,1,High,Churn Value: +7.327,Churn Score: +0.110,Contract_Two year: +0.059
+757,0.999,1,High,Churn Value: +7.327,Churn Score: +0.076,Contract_Two year: +0.059
+1182,0.9986,1,High,Churn Value: +7.327,Dependents: +0.019,Contract_One year: +0.015
+1147,0.9984,1,High,Churn Value: +7.327,Contract_One year: +0.019,Dependents: +0.017
+4341,0.0016,0,Very Low,Churn Score: +0.340,Tenure Months: +0.174,Contract_Two year: +0.098
+4012,0.0016,0,Very Low,Churn Score: +0.365,Tenure Months: +0.144,Internet Service_Fiber optic: +0.098
+6613,0.0015,0,Very Low,Churn Score: +0.313,Tenure Months: +0.159,Contract_Two year: +0.095
+5599,0.0015,0,Very Low,Churn Score: +0.310,Tenure Months: +0.144,Internet Service_Fiber optic: +0.099
+6510,0.0015,0,Very Low,Churn Score: +0.337,Tenure Months: +0.170,Contract_Two year: +0.096
+4730,0.0015,0,Very Low,Churn Score: +0.315,Tenure Months: +0.172,Contract_Two year: +0.097
+5060,0.0015,0,Very Low,Churn Score: +0.344,Tenure Months: +0.155,Internet Service_Fiber optic: +0.110
+4464,0.0015,0,Very Low,Churn Score: +0.335,Tenure Months: +0.144,Internet Service_Fiber optic: +0.099
+6551,0.0015,0,Very Low,Churn Score: +0.290,Tenure Months: +0.141,Internet Service_Fiber optic: +0.098
+4986,0.0014,0,Very Low,Churn Score: +0.293,Tenure Months: +0.185,Contract_Two year: +0.101
+1933,0.0014,0,Very Low,Churn Score: +0.284,Tenure Months: +0.142,Internet Service_Fiber optic: +0.112
+4797,0.0014,0,Very Low,Churn Score: +0.290,Tenure Months: +0.177,Contract_Two year: +0.101
+6145,0.0014,0,Very Low,Churn Score: +0.340,Tenure Months: +0.149,Internet Service_Fiber optic: +0.110
+6514,0.0014,0,Very Low,Churn Score: +0.313,Tenure Months: +0.159,Internet Service_Fiber optic: +0.110
+4313,0.0013,0,Very Low,Churn Score: +0.303,Tenure Months: +0.198,Contract_Two year: +0.090
+5400,0.0013,0,Very Low,Churn Score: +0.268,Tenure Months: +0.173,Internet Service_Fiber optic: +0.101
+5570,0.0013,0,Very Low,Churn Score: +0.312,Internet Service_Fiber optic: +0.093,Contract_Two year: +0.089
+5162,0.0012,0,Very Low,Churn Score: +0.322,Contract_Two year: +0.087,Internet Service_Fiber optic: +0.083
+2739,0.0012,0,Very Low,Churn Score: +0.292,Internet Service_Fiber optic: +0.110,Contract_Two year: +0.097
+3450,0.0012,0,Very Low,Churn Score: +0.273,Contract_Two year: +0.089,Internet Service_Fiber optic: +0.085
+6876,0.0012,0,Very Low,Churn Score: +0.243,Tenure Months: +0.198,Contract_Two year: +0.092
+3997,0.0012,0,Very Low,Churn Score: +0.256,Internet Service_Fiber optic: +0.110,Contract_Two year: +0.098
+2101,0.0012,0,Very Low,Churn Score: +0.297,Contract_Two year: +0.089,Internet Service_Fiber optic: +0.085
+5173,0.0012,0,Very Low,Churn Score: +0.267,Tenure Months: +0.195,Contract_Two year: +0.083
+6071,0.0011,0,Very Low,Churn Score: +0.242,Tenure Months: +0.217,Contract_Two year: +0.079
+2189,0.0011,0,Very Low,Churn Score: +0.283,Internet Service_Fiber optic: +0.099,Contract_Two year: +0.092
+6493,0.0011,0,Very Low,Churn Score: +0.272,Internet Service_Fiber optic: +0.094,Contract_Two year: +0.088
+3950,0.0011,0,Very Low,Churn Score: +0.279,Tenure Months: +0.151,Contract_Two year: +0.080
+6096,0.0011,0,Very Low,Churn Score: +0.268,Internet Service_Fiber optic: +0.099,Contract_Two year: +0.089
+2732,0.0011,0,Very Low,Churn Score: +0.304,Tenure Months: +0.151,Contract_Two year: +0.081
+4923,0.0011,0,Very Low,Churn Score: +0.270,Internet Service_Fiber optic: +0.096,Contract_Two year: +0.080
+5588,0.0011,0,Very Low,Churn Score: +0.267,Internet Service_Fiber optic: +0.086,Contract_Two year: +0.077
+1878,0.0011,0,Very Low,Churn Score: +0.265,Internet Service_Fiber optic: +0.099,Contract_Two year: +0.081
+2828,0.0011,0,Very Low,Churn Score: +0.268,Internet Service_Fiber optic: +0.097,Contract_Two year: +0.092
+2639,0.001,0,Very Low,Churn Score: +0.276,Contract_Two year: +0.072,Payment Method_Electronic check: +0.069
+4700,0.001,0,Very Low,Churn Score: +0.250,Tenure Months: +0.198,Contract_Two year: +0.087
+5081,0.001,0,Very Low,Churn Score: +0.284,Tenure Months: +0.119,Contract_Two year: +0.077
+5225,0.001,0,Very Low,Churn Score: +0.246,Internet Service_Fiber optic: +0.099,Contract_Two year: +0.075
+6012,0.001,0,Very Low,Churn Score: +0.225,Tenure Months: +0.205,Contract_Two year: +0.088
+4304,0.001,0,Very Low,Churn Score: +0.283,Tenure Months: +0.141,Contract_Two year: +0.079
+5463,0.001,0,Very Low,Churn Score: +0.247,Internet Service_Fiber optic: +0.090,Contract_Two year: +0.080
+6643,0.001,0,Very Low,Churn Score: +0.285,Tenure Months: +0.206,Contract_Two year: +0.083
+6572,0.001,0,Very Low,Churn Score: +0.237,Internet Service_Fiber optic: +0.116,Contract_Two year: +0.094
+4550,0.001,0,Very Low,Churn Score: +0.245,Internet Service_Fiber optic: +0.108,Contract_Two year: +0.094
+4722,0.001,0,Very Low,Churn Score: +0.262,Tenure Months: +0.112,Contract_Two year: +0.077
+6169,0.001,0,Very Low,Churn Score: +0.297,Contract_Two year: +0.076,Payment Method_Electronic check: +0.068
+2449,0.001,0,Very Low,Churn Score: +0.267,Internet Service_Fiber optic: +0.100,Contract_Two year: +0.090
+4937,0.001,0,Very Low,Churn Score: +0.267,Tenure Months: +0.201,Contract_Two year: +0.087
+3853,0.001,0,Very Low,Churn Score: +0.213,Internet Service_Fiber optic: +0.095,Contract_Two year: +0.087
+4630,0.001,0,Very Low,Churn Score: +0.243,Internet Service_Fiber optic: +0.096,Contract_Two year: +0.074
+6688,0.001,0,Very Low,Churn Score: +0.248,Internet Service_Fiber optic: +0.094,Contract_Two year: +0.085
+2536,0.001,0,Very Low,Churn Score: +0.234,Internet Service_Fiber optic: +0.112,Contract_Two year: +0.090
+3924,0.001,0,Very Low,Churn Score: +0.217,Internet Service_Fiber optic: +0.092,Contract_Two year: +0.086
+3074,0.001,0,Very Low,Churn Score: +0.242,Tenure Months: +0.157,Contract_Two year: +0.069
+5015,0.0009,0,Very Low,Churn Score: +0.235,Internet Service_Fiber optic: +0.089,Contract_Two year: +0.079
+3551,0.0009,0,Very Low,Churn Score: +0.264,Tenure Months: +0.109,Contract_Two year: +0.080
+4548,0.0009,0,Very Low,Churn Score: +0.261,Tenure Months: +0.116,Contract_Two year: +0.080
+2394,0.0009,0,Very Low,Churn Score: +0.206,Internet Service_Fiber optic: +0.098,Contract_Two year: +0.086
+5021,0.0009,0,Very Low,Tenure Months: +0.212,Churn Score: +0.193,Contract_Two year: +0.084
+4312,0.0009,0,Very Low,Churn Score: +0.217,Internet Service_Fiber optic: +0.091,Contract_Two year: +0.085
+5862,0.0009,0,Very Low,Churn Score: +0.216,Contract_Two year: +0.072,Payment Method_Electronic check: +0.068
+3907,0.0009,0,Very Low,Churn Score: +0.234,Tenure Months: +0.205,Contract_Two year: +0.081
+3576,0.0009,0,Very Low,Churn Score: +0.259,Tenure Months: +0.129,Contract_Two year: +0.072
+4659,0.0009,0,Very Low,Churn Score: +0.218,Internet Service_Fiber optic: +0.082,Contract_Two year: +0.069
+5556,0.0009,0,Very Low,Churn Score: +0.253,Tenure Months: +0.130,Contract_Two year: +0.080
+4602,0.0009,0,Very Low,Churn Score: +0.193,Internet Service_Fiber optic: +0.116,Contract_Two year: +0.093
+2787,0.0009,0,Very Low,Churn Score: +0.233,Contract_Two year: +0.068,Payment Method_Electronic check: +0.068
+3024,0.0009,0,Very Low,Churn Score: +0.289,Tenure Months: +0.116,Contract_Two year: +0.081
+4318,0.0009,0,Very Low,Churn Score: +0.236,Tenure Months: +0.206,Contract_Two year: +0.080
+4955,0.0009,0,Very Low,Churn Score: +0.214,Tenure Months: +0.193,Contract_Two year: +0.077
+5071,0.0009,0,Very Low,Churn Score: +0.206,Tenure Months: +0.203,Contract_Two year: +0.081
+5309,0.0009,0,Very Low,Churn Score: +0.201,Tenure Months: +0.120,Contract_Two year: +0.080
+5059,0.0009,0,Very Low,Tenure Months: +0.208,Churn Score: +0.205,Contract_Two year: +0.082
+6997,0.0009,0,Very Low,Churn Score: +0.246,Tenure Months: +0.208,Contract_Two year: +0.079
+5966,0.0008,0,Very Low,Churn Score: +0.179,Internet Service_Fiber optic: +0.099,Contract_Two year: +0.087
+6055,0.0008,0,Very Low,Churn Score: +0.215,Tenure Months: +0.126,Contract_Two year: +0.073
+4201,0.0008,0,Very Low,Churn Score: +0.220,Contract_Two year: +0.077,Contract_One year: +0.028
+5930,0.0008,0,Very Low,Churn Score: +0.249,Tenure Months: +0.124,Contract_Two year: +0.072
+1967,0.0008,0,Very Low,Tenure Months: +0.202,Churn Score: +0.181,Contract_Two year: +0.080
+4432,0.0008,0,Very Low,Churn Score: +0.177,Tenure Months: +0.127,Contract_Two year: +0.075
+6989,0.0008,0,Very Low,Churn Score: +0.203,Internet Service_Fiber optic: +0.102,Contract_Two year: +0.087
+4027,0.0008,0,Very Low,Churn Score: +0.181,Internet Service_Fiber optic: +0.104,Contract_Two year: +0.091
+4359,0.0008,0,Very Low,Tenure Months: +0.237,Churn Score: +0.192,Contract_Two year: +0.078
+5243,0.0008,0,Very Low,Churn Score: +0.172,Payment Method_Electronic check: +0.065,Contract_Two year: +0.063
+6249,0.0008,0,Very Low,Churn Score: +0.194,Contract_Two year: +0.079,Contract_One year: +0.043
+4205,0.0008,0,Very Low,Churn Score: +0.220,Contract_Two year: +0.078,Contract_One year: +0.042
+6087,0.0008,0,Very Low,Churn Score: +0.234,Tenure Months: +0.199,Contract_Two year: +0.080
+4635,0.0008,0,Very Low,Churn Score: +0.211,Internet Service_Fiber optic: +0.101,Contract_Two year: +0.075
+2214,0.0007,0,Very Low,Churn Score: +0.163,Tenure Months: +0.121,Contract_Two year: +0.079
+6007,0.0007,0,Very Low,Churn Score: +0.169,Payment Method_Electronic check: +0.073,Contract_Two year: +0.072
+6379,0.0007,0,Very Low,Churn Score: +0.160,Internet Service_Fiber optic: +0.076,Contract_Two year: +0.060
+5430,0.0007,0,Very Low,Churn Score: +0.134,Internet Service_Fiber optic: +0.076,Contract_Two year: +0.061
+2339,0.0007,0,Very Low,Churn Score: +0.162,Payment Method_Electronic check: +0.089,Contract_Two year: +0.066
+3584,0.0007,0,Very Low,Churn Score: +0.161,Contract_Two year: +0.068,Payment Method_Electronic check: +0.063
+6424,0.0007,0,Very Low,Churn Score: +0.225,Payment Method_Electronic check: +0.072,Contract_Two year: +0.072
+2059,0.0007,0,Very Low,Churn Score: +0.159,Payment Method_Electronic check: +0.084,Internet Service_Fiber optic: +0.066
+5286,0.0007,0,Very Low,Churn Score: +0.161,Internet Service_Fiber optic: +0.076,Contract_Two year: +0.055
+4437,0.0007,0,Very Low,Churn Score: +0.146,Contract_Two year: +0.065,Internet Service_Fiber optic: +0.063
+6655,0.0007,0,Very Low,Churn Score: +0.137,Internet Service_Fiber optic: +0.076,Contract_Two year: +0.064
+4928,0.0007,0,Very Low,Churn Score: +0.182,Payment Method_Electronic check: +0.073,Contract_Two year: +0.070
+5330,0.0007,0,Very Low,Churn Score: +0.221,Contract_Two year: +0.072,Internet Service_Fiber optic: +0.067
+4354,0.0007,0,Very Low,Churn Score: +0.161,Contract_Two year: +0.065,Internet Service_Fiber optic: +0.063
+2540,0.0007,0,Very Low,Churn Score: +0.172,Tenure Months: +0.128,Contract_Two year: +0.079
+6390,0.0007,0,Very Low,Churn Score: +0.165,Tenure Months: +0.121,Contract_Two year: +0.072
+6033,0.0007,0,Very Low,Churn Score: +0.173,Tenure Months: +0.067,Contract_Two year: +0.066
+2643,0.0007,0,Very Low,Churn Score: +0.184,Tenure Months: +0.139,Contract_Two year: +0.063
+6003,0.0007,0,Very Low,Churn Score: +0.192,Tenure Months: +0.125,Contract_Two year: +0.081
+3837,0.0007,0,Very Low,Churn Score: +0.138,Internet Service_Fiber optic: +0.076,Contract_Two year: +0.058
+5376,0.0007,0,Very Low,Churn Score: +0.172,Tenure Months: +0.137,Contract_Two year: +0.061
+3265,0.0007,0,Very Low,Churn Score: +0.186,Contract_Two year: +0.066,Payment Method_Electronic check: +0.064
+6039,0.0007,0,Very Low,Churn Score: +0.128,Internet Service_Fiber optic: +0.082,Contract_Two year: +0.072
+2288,0.0007,0,Very Low,Churn Score: +0.164,Internet Service_Fiber optic: +0.062,Payment Method_Electronic check: +0.059
+6991,0.0007,0,Very Low,Churn Score: +0.189,Payment Method_Electronic check: +0.087,Internet Service_Fiber optic: +0.060
+3083,0.0006,0,Very Low,Churn Score: +0.159,Contract_Two year: +0.062,Payment Method_Electronic check: +0.059
+6904,0.0006,0,Very Low,Churn Score: +0.172,Contract_Two year: +0.070,Contract_One year: +0.048
+4614,0.0006,0,Very Low,Churn Score: +0.147,Contract_Two year: +0.077,Contract_One year: +0.042
+5926,0.0006,0,Very Low,Churn Score: +0.131,Payment Method_Electronic check: +0.082,Contract_Two year: +0.058
+2644,0.0006,0,Very Low,Churn Score: +0.167,Contract_Two year: +0.073,Internet Service_Fiber optic: +0.072
+4302,0.0006,0,Very Low,Churn Score: +0.204,Payment Method_Electronic check: +0.070,Contract_Two year: +0.062
+5565,0.0006,0,Very Low,Churn Score: +0.132,Contract_Two year: +0.078,Contract_One year: +0.037
+5415,0.0006,0,Very Low,Churn Score: +0.154,Contract_Two year: +0.077,Contract_One year: +0.043
+4608,0.0006,0,Very Low,Churn Score: +0.148,Payment Method_Electronic check: +0.105,Contract_Two year: +0.060
+2002,0.0006,0,Very Low,Churn Score: +0.139,Contract_Two year: +0.068,Payment Method_Electronic check: +0.067
+5136,0.0006,0,Very Low,Churn Score: +0.134,Contract_Two year: +0.077,Contract_One year: +0.042
+3925,0.0006,0,Very Low,Churn Score: +0.152,Monthly Charges: +0.117,Internet Service_Fiber optic: +0.056
+2469,0.0006,0,Very Low,Churn Score: +0.160,Internet Service_Fiber optic: +0.087,Contract_Two year: +0.067
+6859,0.0006,0,Very Low,Churn Score: +0.134,Contract_Two year: +0.072,Contract_One year: +0.051
+5769,0.0006,0,Very Low,Churn Score: +0.172,Contract_Two year: +0.069,Contract_One year: +0.046
+3661,0.0006,0,Very Low,Churn Score: +0.128,Contract_Two year: +0.067,Contract_One year: +0.035
+4936,0.0006,0,Very Low,Churn Score: +0.169,Contract_Two year: +0.068,Streaming Movies: +0.046
+5258,0.0006,0,Very Low,Churn Score: +0.144,Contract_Two year: +0.072,Contract_One year: +0.042
+6403,0.0006,0,Very Low,Churn Score: +0.103,Contract_Two year: +0.068,Streaming Movies: +0.045
+5544,0.0006,0,Very Low,Churn Score: +0.181,Contract_Two year: +0.075,Contract_One year: +0.043
+5005,0.0006,0,Very Low,Churn Score: +0.172,Tenure Months: +0.141,Contract_Two year: +0.054
+6623,0.0005,0,Very Low,Churn Score: +0.121,Contract_Two year: +0.049,Phone Service: +0.021
+5719,0.0005,0,Very Low,Tenure Months: +0.216,Churn Score: +0.108,Contract_Two year: +0.053
+5120,0.0005,0,Very Low,Churn Score: +0.113,Contract_Two year: +0.067,Contract_One year: +0.046
+3588,0.0005,0,Very Low,Churn Score: +0.093,Contract_Two year: +0.066,Contract_One year: +0.046
+3350,0.0005,0,Very Low,Churn Score: +0.114,Contract_Two year: +0.067,Contract_One year: +0.047
+5315,0.0005,0,Very Low,Churn Score: +0.105,Contract_Two year: +0.070,Contract_One year: +0.040
+5646,0.0005,0,Very Low,Churn Score: +0.113,Contract_Two year: +0.069,Contract_One year: +0.049
+5831,0.0005,0,Very Low,Churn Score: +0.075,Contract_Two year: +0.070,Contract_One year: +0.041
+3896,0.0005,0,Very Low,Churn Score: +0.080,Monthly Charges: +0.078,Payment Method_Electronic check: +0.072
+3508,0.0005,0,Very Low,Churn Score: +0.108,Payment Method_Electronic check: +0.096,Contract_Two year: +0.054
+6980,0.0005,0,Very Low,Churn Score: +0.130,Contract_Two year: +0.071,Contract_One year: +0.040
+3707,0.0005,0,Very Low,Churn Score: +0.138,Internet Service_Fiber optic: +0.059,Payment Method_Electronic check: +0.058
+3165,0.0005,0,Very Low,Churn Score: +0.088,Contract_Two year: +0.066,Streaming Movies: +0.040
+5605,0.0005,0,Very Low,Churn Score: +0.157,Contract_Two year: +0.068,Contract_One year: +0.047
+5242,0.0005,0,Very Low,Churn Score: +0.109,Payment Method_Electronic check: +0.066,Contract_Two year: +0.055
+2154,0.0005,0,Very Low,Monthly Charges: +0.128,Churn Score: +0.070,Internet Service_Fiber optic: +0.061
+2699,0.0005,0,Very Low,Churn Score: +0.076,Contract_Two year: +0.059,Dependents: +0.029
+1885,0.0005,0,Very Low,Churn Score: +0.128,Contract_Two year: +0.069,Contract_One year: +0.044
+5632,0.0005,0,Very Low,Churn Score: +0.110,Internet Service_Fiber optic: +0.078,Contract_Two year: +0.059
+6768,0.0005,0,Very Low,Churn Score: +0.075,Contract_Two year: +0.070,Contract_One year: +0.054
+4616,0.0005,0,Very Low,Churn Score: +0.070,Contract_Two year: +0.062,Contract_One year: +0.044
+7012,0.0005,0,Very Low,Churn Score: +0.107,Payment Method_Electronic check: +0.105,Contract_Two year: +0.052
+3775,0.0005,0,Very Low,Churn Score: +0.155,Internet Service_Fiber optic: +0.066,Contract_Two year: +0.059
+2373,0.0005,0,Very Low,Churn Score: +0.117,Monthly Charges: +0.096,Payment Method_Electronic check: +0.065
+6565,0.0005,0,Very Low,Churn Score: +0.110,Tenure Months: +0.066,Contract_Two year: +0.056
+5156,0.0005,0,Very Low,Churn Score: +0.090,Monthly Charges: +0.061,Payment Method_Electronic check: +0.057
+4106,0.0005,0,Very Low,Churn Score: +0.106,Tenure Months: +0.070,Contract_Two year: +0.065
+6667,0.0005,0,Very Low,Churn Score: +0.127,Contract_Two year: +0.076,Contract_One year: +0.047
+5792,0.0005,0,Very Low,Payment Method_Electronic check: +0.084,Churn Score: +0.060,Contract_Two year: +0.052
+6641,0.0005,0,Very Low,Churn Score: +0.105,Monthly Charges: +0.103,Internet Service_Fiber optic: +0.060
+6413,0.0005,0,Very Low,Churn Score: +0.167,Internet Service_Fiber optic: +0.059,Payment Method_Electronic check: +0.053
+6818,0.0005,0,Very Low,Churn Score: +0.099,Contract_Two year: +0.071,Contract_One year: +0.042
+5055,0.0005,0,Very Low,Payment Method_Electronic check: +0.097,Churn Score: +0.084,Contract_Two year: +0.052
+3201,0.0004,0,Very Low,Tenure Months: +0.136,Churn Score: +0.057,Contract_One year: +0.021
+3060,0.0004,0,Very Low,Churn Score: +0.060,Contract_Two year: +0.054,Dependents: +0.029
+2438,0.0004,0,Very Low,Tenure Months: +0.172,Churn Score: +0.030,Total Charges: +0.027
+3136,0.0004,0,Very Low,Churn Score: +0.070,Contract_Two year: +0.054,Dependents: +0.026
+6151,0.0004,0,Very Low,Monthly Charges: +0.070,Churn Score: +0.065,Internet Service_Fiber optic: +0.046
+6705,0.0004,0,Very Low,CLTV: +0.099,Latitude: +0.035,Dependents: +0.021
+2747,0.0004,0,Very Low,Monthly Charges: +0.100,Internet Service_Fiber optic: +0.060,Churn Score: +0.031
+4827,0.0004,0,Very Low,Churn Score: +0.093,Contract_Two year: +0.059,Dependents: +0.029
+4582,0.0004,0,Very Low,Churn Score: +0.069,Contract_Two year: +0.062,Contract_One year: +0.046
+5305,0.0004,0,Very Low,Payment Method_Electronic check: +0.091,Churn Score: +0.084,Contract_Two year: +0.041
+2722,0.0004,0,Very Low,Churn Score: +0.098,Contract_Two year: +0.059,Dependents: +0.029
+4739,0.0004,0,Very Low,Payment Method_Electronic check: +0.078,Monthly Charges: +0.046,Internet Service_Fiber optic: +0.036
+3038,0.0004,0,Very Low,Churn Score: +0.092,Monthly Charges: +0.067,CLTV: +0.046
+5052,0.0004,0,Very Low,Tenure Months: +0.132,Churn Score: +0.065,Contract_Two year: +0.051
+3944,0.0004,0,Very Low,Churn Score: +0.085,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.046
+2528,0.0004,0,Very Low,Contract_Two year: +0.056,Churn Score: +0.053,Dependents: +0.025
+5902,0.0004,0,Very Low,Internet Service_Fiber optic: +0.060,Churn Score: +0.046,CLTV: +0.029
+3029,0.0004,0,Very Low,Churn Score: +0.086,Payment Method_Electronic check: +0.063,Contract_Two year: +0.048
+6941,0.0004,0,Very Low,Churn Score: +0.132,Contract_Two year: +0.055,Dependents: +0.029
+5992,0.0004,0,Very Low,Churn Score: +0.067,Contract_Two year: +0.047,Phone Service: +0.031
+3198,0.0004,0,Very Low,Churn Score: +0.102,Contract_Two year: +0.054,Dependents: +0.028
+3908,0.0004,0,Very Low,Churn Score: +0.113,Contract_Two year: +0.054,Dependents: +0.029
+3473,0.0004,0,Very Low,Churn Score: +0.100,CLTV: +0.071,Internet Service_Fiber optic: +0.054
+3799,0.0004,0,Very Low,Payment Method_Electronic check: +0.062,Monthly Charges: +0.058,Churn Score: +0.055
+3565,0.0004,0,Very Low,Churn Score: +0.085,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.040
+4240,0.0004,0,Very Low,Churn Score: +0.070,Contract_Two year: +0.054,Dependents: +0.027
+4651,0.0004,0,Very Low,Churn Score: +0.088,Contract_Two year: +0.059,Dependents: +0.029
+4942,0.0004,0,Very Low,Churn Score: +0.088,Contract_Two year: +0.054,Dependents: +0.029
+4613,0.0004,0,Very Low,Contract_Two year: +0.054,Churn Score: +0.050,Dependents: +0.028
+6720,0.0004,0,Very Low,Payment Method_Electronic check: +0.116,Churn Score: +0.032,Dependents: +0.019
+6648,0.0004,0,Very Low,Contract_Two year: +0.054,Churn Score: +0.053,Dependents: +0.029
+3593,0.0004,0,Very Low,Monthly Charges: +0.095,Internet Service_Fiber optic: +0.060,Churn Score: +0.052
+4646,0.0004,0,Very Low,Monthly Charges: +0.083,Internet Service_Fiber optic: +0.060,Churn Score: +0.032
+6357,0.0004,0,Very Low,Monthly Charges: +0.120,Internet Service_Fiber optic: +0.060,Dependents: +0.035
+6480,0.0004,0,Very Low,Churn Score: +0.070,Contract_Two year: +0.056,Dependents: +0.030
+4462,0.0004,0,Very Low,Churn Score: +0.079,Internet Service_Fiber optic: +0.055,CLTV: +0.054
+2382,0.0004,0,Very Low,Churn Score: +0.062,Contract_Two year: +0.054,Dependents: +0.029
+2029,0.0003,0,Very Low,Contract_One year: +0.021,Zip Code: +0.003,Online Backup: +0.001
+4407,0.0003,0,Very Low,CLTV: +0.064,Contract_One year: +0.020,Zip Code: +0.015
+2723,0.0003,0,Very Low,Contract_One year: +0.020,Online Backup: +0.001,Paperless Billing: +0.001
+6354,0.0003,0,Very Low,Contract_One year: +0.018,Streaming Movies: +0.009,Internet Service_No: +0.005
+6604,0.0003,0,Very Low,CLTV: +0.035,Contract_One year: +0.020,Online Backup: +0.001
+4968,0.0003,0,Very Low,Contract_One year: +0.020,Online Backup: +0.001,Payment Method_Mailed check: +0.000
+4979,0.0003,0,Very Low,Dependents: +0.019,Contract_One year: +0.015,Streaming Movies: +0.010
+3710,0.0003,0,Very Low,Internet Service_Fiber optic: +0.048,Contract_One year: +0.020,Monthly Charges: +0.014
+5217,0.0003,0,Very Low,Contract_Two year: +0.043,Churn Score: +0.003,Online Backup: +0.002
+6077,0.0003,0,Very Low,Contract_One year: +0.020,Paperless Billing: +0.002,Online Backup: +0.002
+5641,0.0003,0,Very Low,Contract_One year: +0.020,Dependents: +0.016,Churn Score: +0.009
+4948,0.0003,0,Very Low,Contract_Two year: +0.038,CLTV: +0.002,Online Backup: +0.002
+5317,0.0003,0,Very Low,CLTV: +0.072,Dependents: +0.024,Contract_One year: +0.019
+5359,0.0003,0,Very Low,Contract_One year: +0.020,Dependents: +0.013,Phone Service: +0.006
+5709,0.0003,0,Very Low,Monthly Charges: +0.087,Internet Service_Fiber optic: +0.049,Contract_One year: +0.021
+5263,0.0003,0,Very Low,Monthly Charges: +0.080,Internet Service_Fiber optic: +0.046,Contract_One year: +0.019
+5911,0.0003,0,Very Low,Payment Method_Electronic check: +0.076,Internet Service_Fiber optic: +0.036,Churn Score: +0.026
+4816,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.017,Internet Service_No: +0.006
+6302,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.016,Online Backup: +0.001
+6435,0.0003,0,Very Low,Dependents: +0.019,Contract_One year: +0.016,Streaming Movies: +0.010
+4600,0.0003,0,Very Low,Contract_Two year: +0.048,Churn Score: +0.013,Internet Service_No: +0.006
+3036,0.0003,0,Very Low,Latitude: +0.034,Contract_One year: +0.016,Dependents: +0.012
+2692,0.0003,0,Very Low,Churn Score: +0.022,Contract_One year: +0.019,Dependents: +0.017
+3548,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.016,Online Backup: +0.001
+6979,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.016,Online Backup: +0.001
+6482,0.0003,0,Very Low,Contract_One year: +0.019,Online Backup: +0.001,Tech Support: +0.000
+2673,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.017,Internet Service_No: +0.006
+4598,0.0003,0,Very Low,Payment Method_Electronic check: +0.110,Contract_One year: +0.018,Online Backup: +0.003
+5371,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.017,Internet Service_No: +0.006
+2070,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.016,Online Backup: +0.001
+5343,0.0003,0,Very Low,Contract_One year: +0.020,Internet Service_No: +0.005,Paperless Billing: +0.002
+4266,0.0003,0,Very Low,Tenure Months: +0.097,Contract_One year: +0.021,Online Backup: +0.002
+2504,0.0003,0,Very Low,Dependents: +0.019,Contract_One year: +0.015,Streaming Movies: +0.010
+5010,0.0003,0,Very Low,CLTV: +0.042,Contract_One year: +0.019,Dependents: +0.018
+5254,0.0003,0,Very Low,Tenure Months: +0.068,Contract_One year: +0.020,Online Backup: +0.002
+5130,0.0003,0,Very Low,CLTV: +0.050,Contract_One year: +0.019,Dependents: +0.017
+3696,0.0003,0,Very Low,Churn Score: +0.034,Contract_One year: +0.019,Dependents: +0.019
+3603,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.017,Internet Service_No: +0.006
+3504,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.016,Internet Service_No: +0.006
+4494,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.016,Online Backup: +0.001
+3688,0.0003,0,Very Low,Contract_One year: +0.020,Online Backup: +0.001,Tech Support: +0.000
+2012,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.016,Online Backup: +0.001
+6391,0.0003,0,Very Low,Contract_Two year: +0.028,CLTV: +0.024,Online Backup: +0.002
+6081,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.016,Online Backup: +0.001
+5386,0.0003,0,Very Low,Contract_One year: +0.020,Dependents: +0.013,Phone Service: +0.007
+2357,0.0003,0,Very Low,Contract_One year: +0.020,Online Backup: +0.001,Gender: +0.000
+5044,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.016,Paperless Billing: +0.002
+5660,0.0003,0,Very Low,Contract_Two year: +0.050,Churn Score: +0.019,Streaming Movies: +0.016
+3994,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.016,Online Backup: +0.001
+5025,0.0003,0,Very Low,Contract_One year: +0.020,Online Backup: +0.001,Paperless Billing: +0.001
+5150,0.0003,0,Very Low,Contract_One year: +0.020,Paperless Billing: +0.002,Online Backup: +0.001
+5890,0.0003,0,Very Low,CLTV: +0.042,Churn Score: +0.033,Contract_One year: +0.019
+3734,0.0003,0,Very Low,Contract_Two year: +0.050,Churn Score: +0.043,Streaming Movies: +0.018
+3217,0.0003,0,Very Low,Contract_One year: +0.021,Zip Code: +0.004,Online Backup: +0.001
+4564,0.0003,0,Very Low,Contract_One year: +0.020,Online Backup: +0.001,Longitude: +0.001
+5852,0.0003,0,Very Low,Tenure Months: +0.069,Contract_One year: +0.020,Online Backup: +0.002
+4010,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.012,Phone Service: +0.006
+3824,0.0003,0,Very Low,Dependents: +0.019,Contract_One year: +0.015,Streaming Movies: +0.010
+6040,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.016,Online Backup: +0.001
+2601,0.0003,0,Very Low,Contract_One year: +0.020,Online Backup: +0.001,Payment Method_Mailed check: +0.000
+5331,0.0003,0,Very Low,Contract_One year: +0.020,Online Backup: +0.001,Gender: +0.000
+2129,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.017,Internet Service_No: +0.006
+6511,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.016,Online Backup: +0.001
+2849,0.0003,0,Very Low,Contract_One year: +0.018,Dependents: +0.016,Online Backup: +0.001
+6868,0.0003,0,Very Low,Contract_One year: +0.019,Dependents: +0.016,Online Backup: +0.001
+2793,0.0003,0,Very Low,Internet Service_Fiber optic: +0.064,Contract_One year: +0.023,Dependents: +0.021
+3930,0.0003,0,Very Low,Dependents: +0.019,Contract_One year: +0.015,Streaming Movies: +0.010
+6713,0.0003,0,Very Low,Contract_Two year: +0.043,Churn Score: +0.003,Online Backup: +0.002
+4900,0.0003,0,Very Low,Contract_One year: +0.020,Online Backup: +0.001,Tech Support: +0.000
+1924,0.0002,0,Very Low,Tenure Months: +0.114,Contract_Two year: +0.055,Contract_One year: +0.042
+2514,0.0002,0,Very Low,Internet Service_Fiber optic: +0.026,Contract_One year: +0.014,CLTV: +0.008
+2819,0.0002,0,Very Low,Contract_One year: +0.015,CLTV: +0.008,Total Charges: +0.002
+4677,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.011,Streaming Movies: +0.005
+6130,0.0002,0,Very Low,Contract_One year: +0.015,Dependents: +0.011,Total Charges: +0.003
+4130,0.0002,0,Very Low,Internet Service_Fiber optic: +0.060,Contract_Two year: +0.055,Contract_One year: +0.038
+3148,0.0002,0,Very Low,Tenure Months: +0.104,Contract_Two year: +0.053,Contract_One year: +0.038
+5936,0.0002,0,Very Low,Internet Service_Fiber optic: +0.039,Contract_Two year: +0.037,Dependents: +0.015
+3409,0.0002,0,Very Low,Internet Service_Fiber optic: +0.065,Contract_Two year: +0.058,Contract_One year: +0.042
+5612,0.0002,0,Very Low,Tenure Months: +0.036,Contract_One year: +0.016,Zip Code: +0.007
+6976,0.0002,0,Very Low,Internet Service_Fiber optic: +0.038,Contract_Two year: +0.038,Payment Method_Electronic check: +0.026
+4147,0.0002,0,Very Low,Contract_One year: +0.013,Streaming Movies: +0.004,Internet Service_No: +0.003
+2820,0.0002,0,Very Low,Tenure Months: +0.076,Contract_Two year: +0.046,Streaming Movies: +0.038
+5381,0.0002,0,Very Low,Contract_One year: +0.015,Dependents: +0.011,Total Charges: +0.002
+2591,0.0002,0,Very Low,Tenure Months: +0.097,Contract_Two year: +0.048,Contract_One year: +0.038
+7027,0.0002,0,Very Low,Internet Service_Fiber optic: +0.058,Contract_Two year: +0.049,Contract_One year: +0.025
+3364,0.0002,0,Very Low,Tenure Months: +0.092,Contract_Two year: +0.061,Internet Service_Fiber optic: +0.051
+4708,0.0002,0,Very Low,Tenure Months: +0.051,Contract_Two year: +0.048,Contract_One year: +0.035
+7002,0.0002,0,Very Low,Payment Method_Electronic check: +0.042,Contract_Two year: +0.024,Phone Service: +0.010
+3916,0.0002,0,Very Low,Contract_Two year: +0.040,Contract_One year: +0.026,Total Charges: +0.007
+4738,0.0002,0,Very Low,Contract_Two year: +0.027,Longitude: +0.001,Total Charges: +0.001
+5876,0.0002,0,Very Low,Contract_Two year: +0.043,Streaming Movies: +0.043,Internet Service_Fiber optic: +0.040
+6725,0.0002,0,Very Low,Contract_Two year: +0.047,Contract_One year: +0.031,Dependents: +0.015
+4371,0.0002,0,Very Low,Contract_Two year: +0.029,Internet Service_No: +0.003,Zip Code: +0.002
+3948,0.0002,0,Very Low,Internet Service_Fiber optic: +0.032,Payment Method_Electronic check: +0.025,CLTV: +0.017
+6166,0.0002,0,Very Low,Contract_Two year: +0.037,Payment Method_Electronic check: +0.025,Contract_One year: +0.024
+3474,0.0002,0,Very Low,Contract_Two year: +0.042,Streaming Movies: +0.040,Dependents: +0.022
+3071,0.0002,0,Very Low,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.052,Contract_One year: +0.026
+4434,0.0002,0,Very Low,Internet Service_Fiber optic: +0.058,Contract_Two year: +0.049,Contract_One year: +0.028
+4741,0.0002,0,Very Low,Internet Service_Fiber optic: +0.058,Contract_Two year: +0.043,Contract_One year: +0.025
+1985,0.0002,0,Very Low,Payment Method_Electronic check: +0.039,Contract_One year: +0.011,Dependents: +0.011
+4888,0.0002,0,Very Low,Payment Method_Electronic check: +0.041,Contract_One year: +0.014,Dependents: +0.011
+3628,0.0002,0,Very Low,Contract_Two year: +0.032,Tenure Months: +0.026,Dependents: +0.013
+6361,0.0002,0,Very Low,Tenure Months: +0.104,Contract_Two year: +0.051,Contract_One year: +0.037
+5266,0.0002,0,Very Low,Tenure Months: +0.099,Contract_Two year: +0.056,Contract_One year: +0.041
+5838,0.0002,0,Very Low,Contract_Two year: +0.043,Internet Service_Fiber optic: +0.038,Payment Method_Electronic check: +0.028
+6587,0.0002,0,Very Low,Monthly Charges: +0.048,Internet Service_Fiber optic: +0.026,Contract_One year: +0.014
+2825,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.011,Streaming Movies: +0.005
+6550,0.0002,0,Very Low,Tenure Months: +0.093,Contract_Two year: +0.065,Internet Service_Fiber optic: +0.053
+2951,0.0002,0,Very Low,Contract_Two year: +0.041,Streaming Movies: +0.039,Internet Service_Fiber optic: +0.037
+5898,0.0002,0,Very Low,Contract_Two year: +0.033,Dependents: +0.014,Internet Service_No: +0.003
+3721,0.0002,0,Very Low,Contract_Two year: +0.027,Total Charges: +0.002,Online Backup: +0.001
+3939,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Internet Service_No: +0.003
+3844,0.0002,0,Very Low,Contract_Two year: +0.031,Dependents: +0.014,Total Charges: +0.001
+4059,0.0002,0,Very Low,Payment Method_Electronic check: +0.037,Contract_Two year: +0.035,Dependents: +0.017
+6467,0.0002,0,Very Low,Tenure Months: +0.111,Contract_Two year: +0.045,Contract_One year: +0.034
+6862,0.0002,0,Very Low,Contract_One year: +0.016,Phone Service: +0.008,Total Charges: +0.004
+4420,0.0002,0,Very Low,Contract_Two year: +0.044,Contract_One year: +0.034,Phone Service: +0.014
+6712,0.0002,0,Very Low,Contract_One year: +0.015,Total Charges: +0.002,Online Backup: +0.001
+4426,0.0002,0,Very Low,Internet Service_Fiber optic: +0.063,Contract_Two year: +0.055,Contract_One year: +0.035
+2248,0.0002,0,Very Low,Contract_Two year: +0.041,Internet Service_Fiber optic: +0.040,Streaming Movies: +0.033
+2392,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Internet Service_No: +0.003
+6011,0.0002,0,Very Low,Internet Service_Fiber optic: +0.071,Tenure Months: +0.070,Contract_Two year: +0.061
+6515,0.0002,0,Very Low,Contract_One year: +0.014,Streaming Movies: +0.004,Internet Service_No: +0.003
+5635,0.0002,0,Very Low,Contract_Two year: +0.046,Contract_One year: +0.032,Dependents: +0.013
+3918,0.0002,0,Very Low,Contract_Two year: +0.039,Contract_One year: +0.030,Payment Method_Electronic check: +0.027
+4701,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.012,Streaming Movies: +0.005
+5091,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.011,Streaming Movies: +0.005
+4195,0.0002,0,Very Low,Tenure Months: +0.080,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.060
+6890,0.0002,0,Very Low,Contract_Two year: +0.041,Contract_One year: +0.028,Zip Code: +0.009
+2582,0.0002,0,Very Low,Internet Service_Fiber optic: +0.060,Contract_Two year: +0.052,Contract_One year: +0.026
+2253,0.0002,0,Very Low,Tenure Months: +0.080,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.060
+3187,0.0002,0,Very Low,Contract_Two year: +0.044,Payment Method_Electronic check: +0.023,Contract_One year: +0.021
+6505,0.0002,0,Very Low,Contract_One year: +0.015,Paperless Billing: +0.001,Online Backup: +0.001
+3929,0.0002,0,Very Low,Internet Service_Fiber optic: +0.064,Contract_Two year: +0.058,Contract_One year: +0.041
+4131,0.0002,0,Very Low,Tenure Months: +0.112,Contract_Two year: +0.057,Contract_One year: +0.042
+3532,0.0002,0,Very Low,Internet Service_Fiber optic: +0.035,Contract_One year: +0.019,Dependents: +0.013
+5687,0.0002,0,Very Low,Tenure Months: +0.090,Contract_Two year: +0.049,Contract_One year: +0.036
+6419,0.0002,0,Very Low,Contract_Two year: +0.046,Contract_One year: +0.032,Dependents: +0.015
+6576,0.0002,0,Very Low,Internet Service_Fiber optic: +0.056,Contract_Two year: +0.053,Contract_One year: +0.039
+2118,0.0002,0,Very Low,Payment Method_Electronic check: +0.039,Dependents: +0.011,Contract_One year: +0.010
+4718,0.0002,0,Very Low,Contract_Two year: +0.041,Internet Service_Fiber optic: +0.038,Payment Method_Electronic check: +0.026
+4770,0.0002,0,Very Low,Contract_Two year: +0.048,Contract_One year: +0.033,Dependents: +0.014
+4845,0.0002,0,Very Low,Internet Service_Fiber optic: +0.071,Tenure Months: +0.068,Contract_Two year: +0.059
+5320,0.0002,0,Very Low,Contract_Two year: +0.029,Internet Service_No: +0.003,Online Backup: +0.001
+6460,0.0002,0,Very Low,Internet Service_Fiber optic: +0.060,Contract_Two year: +0.053,Contract_One year: +0.026
+5183,0.0002,0,Very Low,Tenure Months: +0.109,Contract_Two year: +0.054,Contract_One year: +0.039
+3466,0.0002,0,Very Low,Tenure Months: +0.107,Contract_Two year: +0.056,Contract_One year: +0.040
+4425,0.0002,0,Very Low,Contract_Two year: +0.039,Contract_One year: +0.028,Payment Method_Electronic check: +0.025
+6213,0.0002,0,Very Low,Tenure Months: +0.093,Contract_Two year: +0.062,Internet Service_Fiber optic: +0.051
+6728,0.0002,0,Very Low,Contract_Two year: +0.033,Zip Code: +0.030,Internet Service_No: +0.003
+5939,0.0002,0,Very Low,Contract_One year: +0.015,Internet Service_No: +0.003,Longitude: +0.001
+5402,0.0002,0,Very Low,Tenure Months: +0.109,Contract_Two year: +0.054,Contract_One year: +0.039
+4069,0.0002,0,Very Low,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.055,Contract_One year: +0.031
+3768,0.0002,0,Very Low,Contract_One year: +0.015,Tenure Months: +0.003,Total Charges: +0.002
+5245,0.0002,0,Very Low,Internet Service_Fiber optic: +0.063,Contract_Two year: +0.055,Contract_One year: +0.039
+4351,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.010,Zip Code: +0.001
+6615,0.0002,0,Very Low,Contract_Two year: +0.042,Streaming Movies: +0.041,Dependents: +0.022
+4255,0.0002,0,Very Low,Internet Service_Fiber optic: +0.029,Contract_Two year: +0.027,Payment Method_Electronic check: +0.025
+2071,0.0002,0,Very Low,Internet Service_Fiber optic: +0.063,Contract_Two year: +0.050,Contract_One year: +0.030
+5040,0.0002,0,Very Low,Contract_One year: +0.015,Paperless Billing: +0.001,Online Backup: +0.001
+6054,0.0002,0,Very Low,Tenure Months: +0.049,Contract_Two year: +0.033,Dependents: +0.012
+3183,0.0002,0,Very Low,Contract_Two year: +0.046,Contract_One year: +0.032,Dependents: +0.012
+2206,0.0002,0,Very Low,Monthly Charges: +0.051,Internet Service_Fiber optic: +0.035,Total Charges: +0.030
+1935,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Total Charges: +0.002
+5446,0.0002,0,Very Low,Contract_One year: +0.016,Phone Service: +0.008,Internet Service_No: +0.004
+4231,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.012,Streaming Movies: +0.005
+3934,0.0002,0,Very Low,Internet Service_Fiber optic: +0.060,Contract_Two year: +0.056,Contract_One year: +0.042
+3514,0.0002,0,Very Low,Contract_One year: +0.015,Dependents: +0.011,Internet Service_No: +0.003
+2592,0.0002,0,Very Low,Contract_One year: +0.015,Dependents: +0.011,Internet Service_No: +0.003
+2346,0.0002,0,Very Low,Contract_Two year: +0.044,Contract_One year: +0.031,Dependents: +0.015
+6995,0.0002,0,Very Low,Contract_Two year: +0.047,Contract_One year: +0.030,Dependents: +0.014
+5046,0.0002,0,Very Low,Internet Service_Fiber optic: +0.060,Contract_Two year: +0.053,Contract_One year: +0.038
+3398,0.0002,0,Very Low,Contract_Two year: +0.042,Internet Service_Fiber optic: +0.036,Contract_One year: +0.028
+3112,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.010,Total Charges: +0.002
+6094,0.0002,0,Very Low,Contract_One year: +0.015,CLTV: +0.008,Paperless Billing: +0.001
+5097,0.0002,0,Very Low,Contract_Two year: +0.027,Total Charges: +0.002,Online Backup: +0.001
+2033,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.010,Phone Service: +0.005
+2111,0.0002,0,Very Low,Internet Service_Fiber optic: +0.060,Contract_Two year: +0.053,Contract_One year: +0.026
+2881,0.0002,0,Very Low,Contract_One year: +0.015,Dependents: +0.012,Internet Service_No: +0.003
+3813,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Total Charges: +0.003
+4124,0.0002,0,Very Low,Contract_One year: +0.015,Internet Service_No: +0.003,Paperless Billing: +0.001
+5514,0.0002,0,Very Low,Monthly Charges: +0.040,Internet Service_Fiber optic: +0.033,Payment Method_Electronic check: +0.026
+4637,0.0002,0,Very Low,Tenure Months: +0.101,Contract_Two year: +0.056,Contract_One year: +0.041
+2281,0.0002,0,Very Low,Contract_One year: +0.015,Longitude: +0.001,Total Charges: +0.001
+5883,0.0002,0,Very Low,Internet Service_Fiber optic: +0.061,Contract_Two year: +0.045,Contract_One year: +0.028
+4029,0.0002,0,Very Low,Internet Service_Fiber optic: +0.033,Monthly Charges: +0.026,Payment Method_Electronic check: +0.026
+5638,0.0002,0,Very Low,Internet Service_Fiber optic: +0.071,Tenure Months: +0.069,Contract_Two year: +0.061
+6383,0.0002,0,Very Low,Contract_Two year: +0.047,Contract_One year: +0.019,Dependents: +0.015
+3145,0.0002,0,Very Low,Contract_One year: +0.012,Dependents: +0.011,CLTV: +0.007
+6969,0.0002,0,Very Low,Contract_Two year: +0.044,Internet Service_Fiber optic: +0.042,Payment Method_Electronic check: +0.026
+5153,0.0002,0,Very Low,Tenure Months: +0.107,Contract_Two year: +0.056,Contract_One year: +0.040
+3488,0.0002,0,Very Low,Contract_One year: +0.015,Longitude: +0.001,Online Backup: +0.001
+3144,0.0002,0,Very Low,Contract_Two year: +0.043,Contract_One year: +0.028,Payment Method_Electronic check: +0.023
+5753,0.0002,0,Very Low,Contract_Two year: +0.039,Streaming Movies: +0.031,Dependents: +0.019
+2336,0.0002,0,Very Low,Internet Service_Fiber optic: +0.058,Contract_Two year: +0.056,Contract_One year: +0.042
+2335,0.0002,0,Very Low,Streaming Movies: +0.043,Contract_Two year: +0.043,Internet Service_Fiber optic: +0.040
+2931,0.0002,0,Very Low,Tenure Months: +0.104,Contract_Two year: +0.056,Contract_One year: +0.042
+4757,0.0002,0,Very Low,Internet Service_Fiber optic: +0.060,Contract_Two year: +0.053,Contract_One year: +0.026
+5794,0.0002,0,Very Low,Monthly Charges: +0.036,Internet Service_Fiber optic: +0.035,Dependents: +0.017
+3886,0.0002,0,Very Low,Internet Service_Fiber optic: +0.060,Contract_Two year: +0.045,Contract_One year: +0.026
+6181,0.0002,0,Very Low,Contract_Two year: +0.032,Dependents: +0.014,Online Backup: +0.001
+5976,0.0002,0,Very Low,CLTV: +0.039,Dependents: +0.014,Contract_One year: +0.012
+6945,0.0002,0,Very Low,Contract_One year: +0.015,Latitude: +0.006,Total Charges: +0.003
+6590,0.0002,0,Very Low,Payment Method_Electronic check: +0.067,CLTV: +0.026,Phone Service: +0.026
+5948,0.0002,0,Very Low,Internet Service_Fiber optic: +0.063,Contract_Two year: +0.054,Contract_One year: +0.028
+2835,0.0002,0,Very Low,Contract_Two year: +0.046,Contract_One year: +0.028,Dependents: +0.015
+6178,0.0002,0,Very Low,Contract_Two year: +0.047,Contract_One year: +0.031,Dependents: +0.015
+6047,0.0002,0,Very Low,Contract_Two year: +0.033,Dependents: +0.014,Internet Service_No: +0.003
+2764,0.0002,0,Very Low,Contract_Two year: +0.043,Contract_One year: +0.025,Tenure Months: +0.020
+5367,0.0002,0,Very Low,Monthly Charges: +0.038,Internet Service_Fiber optic: +0.035,Dependents: +0.015
+2914,0.0002,0,Very Low,Internet Service_Fiber optic: +0.058,Contract_Two year: +0.049,Contract_One year: +0.025
+1999,0.0002,0,Very Low,Internet Service_Fiber optic: +0.045,Contract_Two year: +0.038,Dependents: +0.014
+6193,0.0002,0,Very Low,Tenure Months: +0.063,Contract_Two year: +0.035,Dependents: +0.012
+6537,0.0002,0,Very Low,Tenure Months: +0.104,Contract_Two year: +0.056,Contract_One year: +0.042
+3397,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.011,Streaming Movies: +0.005
+3663,0.0002,0,Very Low,Contract_Two year: +0.032,Dependents: +0.014,Total Charges: +0.001
+2897,0.0002,0,Very Low,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.055,Contract_One year: +0.035
+3035,0.0002,0,Very Low,Tenure Months: +0.052,Contract_Two year: +0.046,Contract_One year: +0.032
+6546,0.0002,0,Very Low,Tenure Months: +0.057,Contract_Two year: +0.045,Internet Service_Fiber optic: +0.043
+6057,0.0002,0,Very Low,Contract_Two year: +0.033,Dependents: +0.014,Internet Service_No: +0.003
+3160,0.0002,0,Very Low,Internet Service_Fiber optic: +0.035,Contract_One year: +0.016,Dependents: +0.011
+2058,0.0002,0,Very Low,Internet Service_Fiber optic: +0.042,Contract_Two year: +0.040,Payment Method_Electronic check: +0.025
+3121,0.0002,0,Very Low,Contract_Two year: +0.030,Dependents: +0.013,Paperless Billing: +0.002
+6103,0.0002,0,Very Low,CLTV: +0.040,Dependents: +0.018,Contract_One year: +0.015
+4466,0.0002,0,Very Low,Contract_Two year: +0.030,Dependents: +0.013,CLTV: +0.001
+6343,0.0002,0,Very Low,Tenure Months: +0.112,Contract_Two year: +0.057,Contract_One year: +0.042
+2696,0.0002,0,Very Low,Contract_One year: +0.012,Dependents: +0.011,Phone Service: +0.005
+2244,0.0002,0,Very Low,Contract_Two year: +0.039,Internet Service_Fiber optic: +0.030,Contract_One year: +0.029
+6925,0.0002,0,Very Low,Internet Service_Fiber optic: +0.060,Contract_Two year: +0.055,Contract_One year: +0.035
+5313,0.0002,0,Very Low,CLTV: +0.019,Contract_One year: +0.016,Phone Service: +0.009
+3722,0.0002,0,Very Low,Contract_Two year: +0.027,Paperless Billing: +0.002,Total Charges: +0.001
+6417,0.0002,0,Very Low,Contract_One year: +0.013,Streaming Movies: +0.004,Internet Service_No: +0.003
+6646,0.0002,0,Very Low,Internet Service_Fiber optic: +0.058,Contract_Two year: +0.055,Contract_One year: +0.042
+6671,0.0002,0,Very Low,Contract_Two year: +0.035,Longitude: +0.017,Dependents: +0.017
+3555,0.0002,0,Very Low,CLTV: +0.037,Dependents: +0.014,Contract_One year: +0.011
+2110,0.0002,0,Very Low,Contract_One year: +0.012,Dependents: +0.011,Phone Service: +0.005
+5631,0.0002,0,Very Low,Monthly Charges: +0.038,Internet Service_Fiber optic: +0.035,Contract_One year: +0.015
+4926,0.0002,0,Very Low,Contract_Two year: +0.043,Contract_One year: +0.031,Dependents: +0.015
+4878,0.0002,0,Very Low,Contract_Two year: +0.046,Contract_One year: +0.032,Tenure Months: +0.016
+2030,0.0002,0,Very Low,Payment Method_Electronic check: +0.039,Contract_Two year: +0.030,Dependents: +0.013
+5716,0.0002,0,Very Low,Contract_One year: +0.017,Phone Service: +0.009,Internet Service_No: +0.003
+5759,0.0002,0,Very Low,Contract_One year: +0.014,Latitude: +0.006,Streaming Movies: +0.004
+4825,0.0002,0,Very Low,Contract_Two year: +0.033,Dependents: +0.014,Internet Service_No: +0.003
+3353,0.0002,0,Very Low,Monthly Charges: +0.048,Internet Service_Fiber optic: +0.026,Contract_One year: +0.014
+2257,0.0002,0,Very Low,Contract_Two year: +0.037,Internet Service_Fiber optic: +0.028,Contract_One year: +0.026
+2991,0.0002,0,Very Low,Contract_Two year: +0.049,Tenure Months: +0.037,Contract_One year: +0.032
+1903,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.010,Internet Service_No: +0.003
+6780,0.0002,0,Very Low,Contract_One year: +0.016,Zip Code: +0.005,Total Charges: +0.002
+2260,0.0002,0,Very Low,Internet Service_Fiber optic: +0.033,Contract_Two year: +0.031,Monthly Charges: +0.006
+6167,0.0002,0,Very Low,Internet Service_Fiber optic: +0.071,Tenure Months: +0.070,Contract_Two year: +0.061
+2586,0.0002,0,Very Low,Contract_Two year: +0.040,Internet Service_Fiber optic: +0.034,Payment Method_Electronic check: +0.021
+4408,0.0002,0,Very Low,Contract_Two year: +0.029,Internet Service_No: +0.003,Zip Code: +0.002
+6846,0.0002,0,Very Low,Contract_Two year: +0.027,Streaming Movies: +0.012,CLTV: +0.008
+3839,0.0002,0,Very Low,Internet Service_Fiber optic: +0.043,Contract_Two year: +0.042,Payment Method_Electronic check: +0.024
+4049,0.0002,0,Very Low,Contract_Two year: +0.035,Dependents: +0.017,Longitude: +0.017
+5812,0.0002,0,Very Low,Contract_One year: +0.015,Internet Service_No: +0.003,Longitude: +0.002
+4938,0.0002,0,Very Low,Contract_One year: +0.014,Phone Service: +0.009,CLTV: +0.009
+3211,0.0002,0,Very Low,CLTV: +0.026,Contract_One year: +0.016,Dependents: +0.012
+2485,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.012,Streaming Movies: +0.005
+5448,0.0002,0,Very Low,Contract_Two year: +0.035,Streaming Movies: +0.033,Payment Method_Electronic check: +0.030
+6195,0.0002,0,Very Low,Contract_Two year: +0.042,Streaming Movies: +0.041,Dependents: +0.022
+3917,0.0002,0,Very Low,Contract_One year: +0.015,Internet Service_No: +0.003,Streaming TV: +0.000
+4788,0.0002,0,Very Low,Monthly Charges: +0.030,Internet Service_Fiber optic: +0.026,Contract_One year: +0.014
+6123,0.0002,0,Very Low,Tenure Months: +0.098,Contract_Two year: +0.051,Contract_One year: +0.037
+2094,0.0002,0,Very Low,Contract_One year: +0.013,Dependents: +0.010,Phone Service: +0.005
+6845,0.0002,0,Very Low,Tenure Months: +0.110,Contract_Two year: +0.054,Contract_One year: +0.040
+2853,0.0002,0,Very Low,Contract_Two year: +0.035,Longitude: +0.017,Dependents: +0.017
+6369,0.0002,0,Very Low,Internet Service_Fiber optic: +0.025,Monthly Charges: +0.020,CLTV: +0.016
+3494,0.0002,0,Very Low,Monthly Charges: +0.039,Internet Service_Fiber optic: +0.033,Payment Method_Electronic check: +0.026
+3866,0.0002,0,Very Low,Tenure Months: +0.104,Contract_Two year: +0.053,Contract_One year: +0.037
+6605,0.0002,0,Very Low,Contract_One year: +0.015,Phone Service: +0.009,Internet Service_No: +0.003
+5193,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Paperless Billing: +0.001
+3369,0.0002,0,Very Low,Internet Service_Fiber optic: +0.055,Contract_Two year: +0.053,Contract_One year: +0.036
+5260,0.0002,0,Very Low,Internet Service_Fiber optic: +0.043,Contract_Two year: +0.039,Dependents: +0.015
+5141,0.0002,0,Very Low,Contract_Two year: +0.039,Contract_One year: +0.029,Internet Service_No: +0.003
+3023,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.011,Streaming Movies: +0.005
+5088,0.0002,0,Very Low,Contract_Two year: +0.031,Dependents: +0.014,Online Backup: +0.001
+2567,0.0002,0,Very Low,Tenure Months: +0.079,Internet Service_Fiber optic: +0.064,Contract_Two year: +0.062
+5194,0.0002,0,Very Low,Contract_One year: +0.015,CLTV: +0.014,Dependents: +0.014
+3675,0.0002,0,Very Low,Contract_Two year: +0.038,Contract_One year: +0.028,Paperless Billing: +0.002
+6620,0.0002,0,Very Low,Internet Service_Fiber optic: +0.064,Contract_Two year: +0.057,Contract_One year: +0.042
+4993,0.0002,0,Very Low,Contract_Two year: +0.032,Dependents: +0.014,Online Backup: +0.001
+4586,0.0002,0,Very Low,Contract_Two year: +0.038,Contract_One year: +0.025,Payment Method_Electronic check: +0.023
+2860,0.0002,0,Very Low,Internet Service_Fiber optic: +0.040,Contract_Two year: +0.039,Streaming Movies: +0.036
+3314,0.0002,0,Very Low,Internet Service_Fiber optic: +0.035,Monthly Charges: +0.020,Dependents: +0.019
+2929,0.0002,0,Very Low,Streaming Movies: +0.043,Contract_Two year: +0.043,Internet Service_Fiber optic: +0.040
+2950,0.0002,0,Very Low,Contract_Two year: +0.043,Streaming Movies: +0.038,Dependents: +0.022
+6630,0.0002,0,Very Low,Internet Service_Fiber optic: +0.060,Contract_Two year: +0.056,Contract_One year: +0.041
+3253,0.0002,0,Very Low,Monthly Charges: +0.038,Internet Service_Fiber optic: +0.035,Contract_One year: +0.015
+3008,0.0002,0,Very Low,Contract_Two year: +0.046,Contract_One year: +0.032,Dependents: +0.015
+4765,0.0002,0,Very Low,Tenure Months: +0.053,Contract_Two year: +0.032,Internet Service_No: +0.009
+3517,0.0002,0,Very Low,Contract_Two year: +0.042,Streaming Movies: +0.037,Dependents: +0.020
+3703,0.0002,0,Very Low,Contract_One year: +0.014,Streaming Movies: +0.004,Internet Service_No: +0.003
+2431,0.0002,0,Very Low,Monthly Charges: +0.035,Internet Service_Fiber optic: +0.034,Dependents: +0.017
+3347,0.0002,0,Very Low,Contract_Two year: +0.037,Contract_One year: +0.025,Payment Method_Electronic check: +0.024
+5039,0.0002,0,Very Low,Contract_Two year: +0.032,Dependents: +0.014,Online Backup: +0.001
+2694,0.0002,0,Very Low,Internet Service_Fiber optic: +0.035,Contract_One year: +0.015,Dependents: +0.013
+3697,0.0002,0,Very Low,Contract_Two year: +0.041,Tenure Months: +0.040,Contract_One year: +0.030
+6364,0.0002,0,Very Low,Contract_Two year: +0.047,Contract_One year: +0.019,Dependents: +0.015
+2720,0.0002,0,Very Low,Tenure Months: +0.101,Contract_Two year: +0.050,Contract_One year: +0.034
+3442,0.0002,0,Very Low,Contract_Two year: +0.041,Streaming Movies: +0.034,Dependents: +0.021
+6394,0.0002,0,Very Low,Contract_Two year: +0.042,Internet Service_Fiber optic: +0.042,Streaming Movies: +0.039
+4514,0.0002,0,Very Low,Contract_Two year: +0.040,Internet Service_Fiber optic: +0.033,Contract_One year: +0.026
+6555,0.0002,0,Very Low,Monthly Charges: +0.034,Internet Service_Fiber optic: +0.033,Total Charges: +0.028
+4393,0.0002,0,Very Low,Internet Service_Fiber optic: +0.032,Contract_One year: +0.018,Zip Code: +0.011
+4193,0.0002,0,Very Low,Internet Service_Fiber optic: +0.045,Contract_Two year: +0.042,Streaming Movies: +0.036
+5720,0.0002,0,Very Low,Tenure Months: +0.110,Contract_Two year: +0.054,Contract_One year: +0.040
+5170,0.0002,0,Very Low,Contract_One year: +0.012,Dependents: +0.011,Phone Service: +0.005
+1872,0.0002,0,Very Low,Internet Service_Fiber optic: +0.057,Contract_Two year: +0.053,Zip Code: +0.046
+2597,0.0002,0,Very Low,Contract_Two year: +0.033,Dependents: +0.014,Internet Service_No: +0.003
+6692,0.0002,0,Very Low,Contract_Two year: +0.046,Tenure Months: +0.044,Contract_One year: +0.033
+6763,0.0002,0,Very Low,Contract_One year: +0.012,Dependents: +0.011,Streaming Movies: +0.005
+2741,0.0002,0,Very Low,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.052,Contract_One year: +0.035
+5105,0.0002,0,Very Low,Tenure Months: +0.068,Contract_Two year: +0.052,Contract_One year: +0.035
+6800,0.0002,0,Very Low,Internet Service_Fiber optic: +0.039,Contract_Two year: +0.034,Streaming Movies: +0.010
+3671,0.0002,0,Very Low,Contract_Two year: +0.040,Contract_One year: +0.028,Total Charges: +0.007
+5345,0.0002,0,Very Low,Tenure Months: +0.049,Contract_One year: +0.016,Phone Service: +0.006
+2946,0.0002,0,Very Low,Contract_Two year: +0.031,Dependents: +0.014,Online Backup: +0.001
+4442,0.0002,0,Very Low,Contract_Two year: +0.047,Contract_One year: +0.031,Dependents: +0.012
+5506,0.0002,0,Very Low,Streaming Movies: +0.043,Internet Service_Fiber optic: +0.040,Contract_Two year: +0.029
+3556,0.0002,0,Very Low,Tenure Months: +0.104,Contract_Two year: +0.053,Contract_One year: +0.037
+4760,0.0002,0,Very Low,Internet Service_Fiber optic: +0.063,Contract_Two year: +0.054,Contract_One year: +0.028
+2477,0.0002,0,Very Low,Monthly Charges: +0.085,Internet Service_Fiber optic: +0.035,Total Charges: +0.035
+5471,0.0002,0,Very Low,Contract_Two year: +0.041,Streaming Movies: +0.037,Dependents: +0.021
+4559,0.0002,0,Very Low,Contract_One year: +0.015,Longitude: +0.001,Total Charges: +0.001
+2507,0.0002,0,Very Low,Tenure Months: +0.088,Contract_Two year: +0.052,Contract_One year: +0.040
+5469,0.0002,0,Very Low,Contract_Two year: +0.028,Dependents: +0.015,Latitude: +0.005
+3851,0.0002,0,Very Low,Streaming Movies: +0.043,Internet Service_Fiber optic: +0.040,Contract_Two year: +0.035
+5856,0.0002,0,Very Low,Payment Method_Electronic check: +0.029,Internet Service_Fiber optic: +0.024,Contract_One year: +0.014
+3472,0.0002,0,Very Low,Tenure Months: +0.044,Payment Method_Electronic check: +0.043,Contract_Two year: +0.034
+5199,0.0002,0,Very Low,Contract_One year: +0.015,Dependents: +0.011,CLTV: +0.005
+4232,0.0002,0,Very Low,Tenure Months: +0.109,Contract_Two year: +0.055,Contract_One year: +0.029
+2768,0.0002,0,Very Low,CLTV: +0.038,Contract_One year: +0.015,Total Charges: +0.002
+2196,0.0002,0,Very Low,Monthly Charges: +0.038,Internet Service_Fiber optic: +0.035,Dependents: +0.016
+5975,0.0002,0,Very Low,Contract_Two year: +0.035,Streaming Movies: +0.033,Payment Method_Electronic check: +0.028
+6282,0.0002,0,Very Low,Monthly Charges: +0.068,Internet Service_Fiber optic: +0.034,Dependents: +0.026
+3845,0.0002,0,Very Low,Contract_Two year: +0.047,Tenure Months: +0.044,Contract_One year: +0.033
+4675,0.0002,0,Very Low,Contract_Two year: +0.032,Dependents: +0.014,Paperless Billing: +0.002
+5546,0.0002,0,Very Low,Internet Service_Fiber optic: +0.072,Contract_Two year: +0.062,Contract_One year: +0.048
+4578,0.0002,0,Very Low,Internet Service_Fiber optic: +0.033,Payment Method_Electronic check: +0.029,Dependents: +0.027
+5914,0.0002,0,Very Low,Contract_Two year: +0.027,Paperless Billing: +0.002,Longitude: +0.001
+5425,0.0002,0,Very Low,Tenure Months: +0.104,Contract_Two year: +0.053,Contract_One year: +0.037
+2770,0.0002,0,Very Low,Contract_Two year: +0.040,Contract_One year: +0.025,Streaming Movies: +0.005
+4973,0.0002,0,Very Low,Internet Service_Fiber optic: +0.026,Monthly Charges: +0.026,Contract_One year: +0.014
+6668,0.0002,0,Very Low,Contract_Two year: +0.035,Dependents: +0.014,Total Charges: +0.007
+4429,0.0002,0,Very Low,Contract_One year: +0.016,Zip Code: +0.004,Longitude: +0.001
+4323,0.0002,0,Very Low,Contract_Two year: +0.036,Zip Code: +0.025,Dependents: +0.014
+6324,0.0002,0,Very Low,Contract_Two year: +0.047,Contract_One year: +0.030,Dependents: +0.015
+2858,0.0002,0,Very Low,Contract_Two year: +0.043,Streaming Movies: +0.034,Dependents: +0.023
+4828,0.0002,0,Very Low,Tenure Months: +0.047,Payment Method_Electronic check: +0.034,Contract_Two year: +0.031
+2840,0.0002,0,Very Low,Contract_Two year: +0.045,Contract_One year: +0.028,Tenure Months: +0.024
+2691,0.0002,0,Very Low,Internet Service_Fiber optic: +0.064,Contract_Two year: +0.054,Contract_One year: +0.028
+2093,0.0002,0,Very Low,Tenure Months: +0.080,Internet Service_Fiber optic: +0.063,Contract_Two year: +0.058
+6295,0.0002,0,Very Low,Tenure Months: +0.091,Contract_Two year: +0.062,Internet Service_Fiber optic: +0.051
+4792,0.0002,0,Very Low,Contract_Two year: +0.030,Streaming Movies: +0.012,Internet Service_No: +0.003
+4740,0.0002,0,Very Low,Contract_Two year: +0.031,Dependents: +0.014,Online Backup: +0.001
+3863,0.0002,0,Very Low,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.052,Contract_One year: +0.035
+3974,0.0002,0,Very Low,Contract_Two year: +0.045,Contract_One year: +0.031,Dependents: +0.015
+7035,0.0002,0,Very Low,Internet Service_Fiber optic: +0.065,Contract_Two year: +0.057,Contract_One year: +0.042
+3014,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.012,Streaming Movies: +0.005
+5009,0.0002,0,Very Low,Contract_Two year: +0.039,Internet Service_Fiber optic: +0.032,Payment Method_Electronic check: +0.022
+2535,0.0002,0,Very Low,Internet Service_Fiber optic: +0.039,Contract_Two year: +0.035,Dependents: +0.016
+6606,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.011,Streaming Movies: +0.005
+4005,0.0002,0,Very Low,Tenure Months: +0.098,Contract_Two year: +0.051,Contract_One year: +0.037
+2701,0.0002,0,Very Low,Contract_Two year: +0.034,Dependents: +0.014,Internet Service_No: +0.004
+2381,0.0002,0,Very Low,Tenure Months: +0.110,Contract_Two year: +0.055,Contract_One year: +0.039
+5564,0.0002,0,Very Low,Contract_Two year: +0.045,Contract_One year: +0.032,Dependents: +0.013
+4459,0.0002,0,Very Low,Contract_Two year: +0.042,Tenure Months: +0.042,Contract_One year: +0.032
+2254,0.0002,0,Very Low,Contract_Two year: +0.044,Contract_One year: +0.031,Dependents: +0.014
+2932,0.0002,0,Very Low,Monthly Charges: +0.029,Internet Service_Fiber optic: +0.026,Payment Method_Electronic check: +0.025
+5379,0.0002,0,Very Low,Internet Service_Fiber optic: +0.060,Contract_Two year: +0.054,Contract_One year: +0.026
+1983,0.0002,0,Very Low,Contract_Two year: +0.043,Contract_One year: +0.029,Tenure Months: +0.023
+4212,0.0002,0,Very Low,Contract_Two year: +0.043,Streaming Movies: +0.041,Dependents: +0.021
+5103,0.0002,0,Very Low,Internet Service_Fiber optic: +0.035,Contract_One year: +0.019,Dependents: +0.012
+5212,0.0002,0,Very Low,Monthly Charges: +0.051,Internet Service_Fiber optic: +0.035,Dependents: +0.020
+2609,0.0002,0,Very Low,Tenure Months: +0.028,Contract_One year: +0.015,Total Charges: +0.001
+4868,0.0002,0,Very Low,Internet Service_Fiber optic: +0.056,Contract_Two year: +0.053,Contract_One year: +0.039
+3175,0.0002,0,Very Low,Contract_Two year: +0.031,Dependents: +0.013,Total Charges: +0.003
+4830,0.0002,0,Very Low,Contract_Two year: +0.044,Contract_One year: +0.031,Tenure Months: +0.026
+2935,0.0002,0,Very Low,Contract_Two year: +0.041,Contract_One year: +0.027,Payment Method_Electronic check: +0.024
+6814,0.0002,0,Very Low,Payment Method_Electronic check: +0.039,Contract_One year: +0.014,Zip Code: +0.003
+6823,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.010,Total Charges: +0.002
+4625,0.0002,0,Very Low,Tenure Months: +0.037,Contract_Two year: +0.033,Dependents: +0.013
+6137,0.0002,0,Very Low,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.057,Contract_One year: +0.041
+3985,0.0002,0,Very Low,Internet Service_Fiber optic: +0.060,Contract_Two year: +0.053,Contract_One year: +0.026
+4685,0.0002,0,Very Low,Tenure Months: +0.064,Contract_Two year: +0.053,Contract_One year: +0.024
+4061,0.0002,0,Very Low,Monthly Charges: +0.063,Internet Service_Fiber optic: +0.033,Dependents: +0.028
+2405,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Online Backup: +0.001
+5321,0.0002,0,Very Low,Contract_Two year: +0.035,Contract_One year: +0.024,Payment Method_Electronic check: +0.024
+2844,0.0002,0,Very Low,Contract_Two year: +0.035,Dependents: +0.017,Longitude: +0.017
+4581,0.0002,0,Very Low,Internet Service_Fiber optic: +0.058,Contract_Two year: +0.043,Contract_One year: +0.027
+6025,0.0002,0,Very Low,Tenure Months: +0.109,Contract_Two year: +0.055,Contract_One year: +0.039
+6857,0.0002,0,Very Low,Tenure Months: +0.101,Contract_Two year: +0.050,Contract_One year: +0.040
+4925,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Online Backup: +0.001
+6396,0.0002,0,Very Low,Tenure Months: +0.083,Contract_Two year: +0.038,Dependents: +0.012
+3502,0.0002,0,Very Low,Internet Service_Fiber optic: +0.057,Contract_Two year: +0.054,Contract_One year: +0.026
+5692,0.0002,0,Very Low,Contract_One year: +0.015,Streaming Movies: +0.004,Zip Code: +0.004
+5124,0.0002,0,Very Low,Contract_One year: +0.015,Internet Service_No: +0.003,Paperless Billing: +0.001
+6199,0.0002,0,Very Low,Contract_One year: +0.015,Total Charges: +0.002,Online Backup: +0.001
+2822,0.0002,0,Very Low,Contract_One year: +0.015,Dependents: +0.011,CLTV: +0.004
+6834,0.0002,0,Very Low,Contract_Two year: +0.032,Dependents: +0.013,Phone Service: +0.004
+4631,0.0002,0,Very Low,Internet Service_Fiber optic: +0.043,Contract_Two year: +0.037,Dependents: +0.015
+1873,0.0002,0,Very Low,Contract_Two year: +0.051,Tenure Months: +0.041,Contract_One year: +0.030
+2006,0.0002,0,Very Low,Contract_Two year: +0.040,Streaming Movies: +0.035,Dependents: +0.020
+5984,0.0002,0,Very Low,Internet Service_Fiber optic: +0.042,Contract_Two year: +0.038,Dependents: +0.016
+3865,0.0002,0,Very Low,Contract_Two year: +0.028,Total Charges: +0.001,Online Backup: +0.001
+2443,0.0002,0,Very Low,Tenure Months: +0.110,Contract_Two year: +0.054,Contract_One year: +0.040
+6521,0.0002,0,Very Low,Tenure Months: +0.052,Contract_Two year: +0.042,Internet Service_Fiber optic: +0.034
+6044,0.0002,0,Very Low,Tenure Months: +0.093,Contract_Two year: +0.064,Internet Service_Fiber optic: +0.053
+1996,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.010,Online Backup: +0.001
+3789,0.0002,0,Very Low,Contract_One year: +0.015,Online Backup: +0.001,Payment Method_Mailed check: +0.000
+2170,0.0002,0,Very Low,Contract_One year: +0.015,Dependents: +0.011,Paperless Billing: +0.001
+5681,0.0002,0,Very Low,Contract_Two year: +0.038,Internet Service_Fiber optic: +0.038,Payment Method_Electronic check: +0.026
+6360,0.0002,0,Very Low,Tenure Months: +0.046,Payment Method_Electronic check: +0.034,Contract_Two year: +0.033
+4781,0.0002,0,Very Low,Internet Service_Fiber optic: +0.033,Payment Method_Electronic check: +0.028,Dependents: +0.019
+5026,0.0002,0,Very Low,Contract_Two year: +0.046,Contract_One year: +0.034,Dependents: +0.014
+2492,0.0002,0,Very Low,Streaming Movies: +0.040,Contract_Two year: +0.039,Dependents: +0.022
+2475,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.011,Streaming Movies: +0.005
+6118,0.0002,0,Very Low,Contract_Two year: +0.043,Contract_One year: +0.028,Payment Method_Electronic check: +0.024
+3017,0.0002,0,Very Low,Contract_Two year: +0.040,Contract_One year: +0.029,Payment Method_Electronic check: +0.023
+3400,0.0002,0,Very Low,Payment Method_Electronic check: +0.049,Contract_Two year: +0.034,Dependents: +0.014
+5732,0.0002,0,Very Low,Internet Service_Fiber optic: +0.042,Contract_Two year: +0.037,Streaming Movies: +0.034
+2379,0.0002,0,Very Low,Internet Service_Fiber optic: +0.044,Contract_Two year: +0.041,Streaming Movies: +0.039
+2729,0.0002,0,Very Low,Contract_Two year: +0.042,Streaming Movies: +0.040,Dependents: +0.022
+3440,0.0002,0,Very Low,Contract_Two year: +0.047,Tenure Months: +0.029,Payment Method_Electronic check: +0.022
+4062,0.0002,0,Very Low,Tenure Months: +0.088,Contract_Two year: +0.061,Internet Service_Fiber optic: +0.052
+4666,0.0002,0,Very Low,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.052,Contract_One year: +0.027
+3931,0.0002,0,Very Low,Contract_Two year: +0.044,Contract_One year: +0.027,Payment Method_Electronic check: +0.024
+3855,0.0002,0,Very Low,Tenure Months: +0.046,Contract_Two year: +0.041,Streaming Movies: +0.028
+4196,0.0002,0,Very Low,Contract_Two year: +0.027,Total Charges: +0.002,Online Backup: +0.001
+3117,0.0002,0,Very Low,Monthly Charges: +0.035,Internet Service_Fiber optic: +0.034,Dependents: +0.015
+4021,0.0002,0,Very Low,Contract_One year: +0.014,Phone Service: +0.009,CLTV: +0.009
+6355,0.0002,0,Very Low,Contract_Two year: +0.031,Streaming Movies: +0.010,Internet Service_No: +0.005
+7037,0.0002,0,Very Low,Contract_Two year: +0.037,Payment Method_Electronic check: +0.029,Streaming Movies: +0.027
+6210,0.0002,0,Very Low,Contract_Two year: +0.049,Tenure Months: +0.036,Contract_One year: +0.032
+6158,0.0002,0,Very Low,Contract_One year: +0.015,Online Backup: +0.001,Payment Method_Mailed check: +0.000
+4324,0.0002,0,Very Low,Contract_Two year: +0.047,Contract_One year: +0.021,Dependents: +0.013
+4680,0.0002,0,Very Low,Monthly Charges: +0.085,Internet Service_Fiber optic: +0.035,Dependents: +0.025
+3777,0.0002,0,Very Low,Contract_Two year: +0.040,Internet Service_Fiber optic: +0.034,Contract_One year: +0.023
+4819,0.0002,0,Very Low,Payment Method_Electronic check: +0.031,Contract_Two year: +0.024,Phone Service: +0.010
+4057,0.0002,0,Very Low,Contract_Two year: +0.048,Contract_One year: +0.029,Dependents: +0.015
+4899,0.0002,0,Very Low,Contract_Two year: +0.031,Dependents: +0.014,Paperless Billing: +0.002
+5169,0.0002,0,Very Low,Internet Service_Fiber optic: +0.065,Contract_Two year: +0.054,Contract_One year: +0.028
+6338,0.0002,0,Very Low,Tenure Months: +0.046,Contract_Two year: +0.043,Streaming Movies: +0.034
+4406,0.0002,0,Very Low,Contract_Two year: +0.033,Dependents: +0.013,Internet Service_No: +0.003
+2783,0.0002,0,Very Low,Contract_Two year: +0.032,Dependents: +0.014,Tenure Months: +0.010
+4377,0.0002,0,Very Low,Internet Service_Fiber optic: +0.035,Contract_Two year: +0.033,Streaming Movies: +0.010
+6452,0.0002,0,Very Low,Tenure Months: +0.114,Contract_Two year: +0.048,Contract_One year: +0.036
+5933,0.0002,0,Very Low,Contract_One year: +0.015,Total Charges: +0.002,Longitude: +0.001
+4941,0.0002,0,Very Low,Tenure Months: +0.073,Internet Service_Fiber optic: +0.073,Contract_Two year: +0.064
+6762,0.0002,0,Very Low,Contract_Two year: +0.026,Dependents: +0.014,CLTV: +0.003
+3385,0.0002,0,Very Low,Contract_Two year: +0.031,Dependents: +0.014,Total Charges: +0.001
+2472,0.0002,0,Very Low,Internet Service_Fiber optic: +0.035,Contract_One year: +0.019,Dependents: +0.012
+6362,0.0002,0,Very Low,Contract_Two year: +0.047,Contract_One year: +0.033,Dependents: +0.014
+5314,0.0002,0,Very Low,Contract_Two year: +0.044,Contract_One year: +0.030,Dependents: +0.015
+6564,0.0002,0,Very Low,Contract_One year: +0.015,Phone Service: +0.009,Total Charges: +0.004
+5887,0.0002,0,Very Low,Internet Service_Fiber optic: +0.026,Contract_One year: +0.014,Monthly Charges: +0.006
+2578,0.0002,0,Very Low,Contract_One year: +0.015,Total Charges: +0.001,Online Backup: +0.001
+2131,0.0002,0,Very Low,Internet Service_Fiber optic: +0.071,Tenure Months: +0.068,Contract_Two year: +0.058
+5223,0.0002,0,Very Low,Contract_Two year: +0.046,Contract_One year: +0.028,Tenure Months: +0.021
+4987,0.0002,0,Very Low,Contract_One year: +0.015,Dependents: +0.011,Online Backup: +0.001
+6258,0.0002,0,Very Low,Contract_Two year: +0.030,Streaming Movies: +0.012,Internet Service_No: +0.003
+3692,0.0002,0,Very Low,Contract_One year: +0.015,Online Backup: +0.001,Gender: +0.000
+5496,0.0002,0,Very Low,Contract_One year: +0.015,Internet Service_No: +0.003,Streaming TV: +0.000
+2532,0.0002,0,Very Low,Internet Service_Fiber optic: +0.033,Contract_Two year: +0.033,Streaming Movies: +0.012
+1963,0.0002,0,Very Low,Contract_Two year: +0.045,Tenure Months: +0.037,Contract_One year: +0.032
+5383,0.0002,0,Very Low,Contract_One year: +0.015,Online Backup: +0.001,Gender: +0.000
+5152,0.0002,0,Very Low,Payment Method_Electronic check: +0.040,Contract_One year: +0.014,Dependents: +0.011
+4906,0.0002,0,Very Low,Internet Service_Fiber optic: +0.034,Contract_Two year: +0.033,Streaming Movies: +0.011
+4245,0.0002,0,Very Low,Tenure Months: +0.084,Contract_Two year: +0.052,Contract_One year: +0.039
+5211,0.0002,0,Very Low,Contract_One year: +0.015,Dependents: +0.011,Online Backup: +0.001
+2622,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.012,Streaming Movies: +0.005
+5391,0.0002,0,Very Low,Tenure Months: +0.048,Contract_Two year: +0.029,Online Backup: +0.001
+4707,0.0002,0,Very Low,Internet Service_Fiber optic: +0.058,Contract_Two year: +0.039,Contract_One year: +0.025
+2945,0.0002,0,Very Low,Internet Service_Fiber optic: +0.060,Contract_Two year: +0.052,Contract_One year: +0.041
+3542,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Total Charges: +0.002
+6972,0.0002,0,Very Low,Contract_One year: +0.016,CLTV: +0.014,Dependents: +0.013
+5667,0.0002,0,Very Low,Tenure Months: +0.080,Contract_Two year: +0.051,Contract_One year: +0.038
+2023,0.0002,0,Very Low,Internet Service_Fiber optic: +0.058,Contract_Two year: +0.054,Contract_One year: +0.042
+6730,0.0002,0,Very Low,Contract_One year: +0.015,Zip Code: +0.007,Longitude: +0.001
+6068,0.0002,0,Very Low,Monthly Charges: +0.038,Internet Service_Fiber optic: +0.033,Payment Method_Electronic check: +0.025
+6528,0.0002,0,Very Low,Monthly Charges: +0.030,Internet Service_Fiber optic: +0.026,Contract_One year: +0.014
+4529,0.0002,0,Very Low,Contract_Two year: +0.035,Contract_One year: +0.026,Payment Method_Electronic check: +0.024
+2662,0.0002,0,Very Low,Contract_Two year: +0.032,Dependents: +0.014,Paperless Billing: +0.001
+6384,0.0002,0,Very Low,Tenure Months: +0.110,Contract_Two year: +0.057,Contract_One year: +0.042
+5326,0.0002,0,Very Low,Monthly Charges: +0.042,Internet Service_Fiber optic: +0.034,Dependents: +0.018
+3053,0.0002,0,Very Low,Monthly Charges: +0.037,Internet Service_Fiber optic: +0.026,Contract_One year: +0.014
+3086,0.0002,0,Very Low,Contract_One year: +0.015,Dependents: +0.010,Zip Code: +0.003
+3554,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.011,Streaming Movies: +0.005
+6001,0.0002,0,Very Low,Contract_Two year: +0.031,Internet Service_Fiber optic: +0.030,Monthly Charges: +0.004
+3533,0.0002,0,Very Low,Tenure Months: +0.112,Contract_Two year: +0.051,Contract_One year: +0.039
+5712,0.0002,0,Very Low,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.056,Contract_One year: +0.043
+4836,0.0002,0,Very Low,Tenure Months: +0.084,Contract_Two year: +0.049,Contract_One year: +0.036
+3515,0.0002,0,Very Low,Contract_Two year: +0.033,Dependents: +0.014,Internet Service_No: +0.003
+4642,0.0002,0,Very Low,Dependents: +0.011,Contract_One year: +0.011,Streaming Movies: +0.005
+4504,0.0002,0,Very Low,Internet Service_Fiber optic: +0.063,Contract_Two year: +0.054,Contract_One year: +0.030
+4067,0.0002,0,Very Low,Contract_Two year: +0.038,Contract_One year: +0.027,Paperless Billing: +0.002
+6233,0.0002,0,Very Low,Contract_One year: +0.015,CLTV: +0.008,Online Backup: +0.001
+3396,0.0002,0,Very Low,Contract_Two year: +0.034,Internet Service_Fiber optic: +0.029,Contract_One year: +0.024
+2815,0.0002,0,Very Low,Monthly Charges: +0.038,Internet Service_Fiber optic: +0.035,Dependents: +0.015
+2368,0.0002,0,Very Low,Contract_Two year: +0.046,Contract_One year: +0.034,Dependents: +0.014
+2231,0.0002,0,Very Low,Internet Service_Fiber optic: +0.026,Contract_One year: +0.014,CLTV: +0.009
+6375,0.0002,0,Very Low,Tenure Months: +0.031,Contract_One year: +0.015,Online Backup: +0.001
+3437,0.0002,0,Very Low,Contract_Two year: +0.040,Internet Service_Fiber optic: +0.032,Payment Method_Electronic check: +0.022
+5822,0.0002,0,Very Low,Contract_Two year: +0.034,Dependents: +0.013,Total Charges: +0.006
+5617,0.0002,0,Very Low,Contract_Two year: +0.028,Zip Code: +0.004,Total Charges: +0.002
+5843,0.0002,0,Very Low,Internet Service_Fiber optic: +0.058,Contract_Two year: +0.055,Contract_One year: +0.042
+4802,0.0002,0,Very Low,Contract_Two year: +0.047,Contract_One year: +0.031,Dependents: +0.015
+6321,0.0002,0,Very Low,Payment Method_Electronic check: +0.041,Contract_One year: +0.014,Total Charges: +0.003
+3227,0.0002,0,Very Low,Internet Service_Fiber optic: +0.056,Contract_Two year: +0.053,Contract_One year: +0.031
+5074,0.0002,0,Very Low,Contract_Two year: +0.028,Paperless Billing: +0.001,Online Backup: +0.001
+4544,0.0002,0,Very Low,Contract_Two year: +0.040,Internet Service_Fiber optic: +0.029,Contract_One year: +0.026
+4603,0.0002,0,Very Low,Contract_One year: +0.015,CLTV: +0.006,Longitude: +0.002
+5450,0.0002,0,Very Low,Contract_One year: +0.015,Dependents: +0.011,Online Backup: +0.001
+3732,0.0002,0,Very Low,Tenure Months: +0.089,Contract_Two year: +0.062,Internet Service_Fiber optic: +0.051
+5850,0.0002,0,Very Low,Internet Service_Fiber optic: +0.065,Contract_Two year: +0.057,Contract_One year: +0.043
+2989,0.0002,0,Very Low,Tenure Months: +0.084,Contract_Two year: +0.052,Contract_One year: +0.039
+6368,0.0002,0,Very Low,Contract_Two year: +0.046,Contract_One year: +0.029,Tenure Months: +0.028
+4296,0.0002,0,Very Low,Contract_Two year: +0.028,Paperless Billing: +0.001,Online Backup: +0.001
+2637,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,CLTV: +0.004
+3019,0.0002,0,Very Low,Contract_Two year: +0.033,Dependents: +0.014,Phone Service: +0.004
+4961,0.0002,0,Very Low,Contract_Two year: +0.045,Contract_One year: +0.031,Tenure Months: +0.025
+2884,0.0002,0,Very Low,Contract_Two year: +0.032,Internet Service_Fiber optic: +0.032,Streaming Movies: +0.013
+5582,0.0002,0,Very Low,Contract_Two year: +0.029,Phone Service: +0.008,Internet Service_No: +0.003
+6954,0.0002,0,Very Low,Internet Service_Fiber optic: +0.058,Contract_Two year: +0.056,Contract_One year: +0.032
+2122,0.0002,0,Very Low,Contract_Two year: +0.040,Contract_One year: +0.030,Longitude: +0.005
+2544,0.0002,0,Very Low,Contract_Two year: +0.042,Streaming Movies: +0.034,Dependents: +0.021
+6334,0.0002,0,Very Low,Contract_One year: +0.013,Streaming Movies: +0.004,Internet Service_No: +0.003
+7022,0.0002,0,Very Low,Tenure Months: +0.104,Contract_Two year: +0.053,Contract_One year: +0.035
+6649,0.0002,0,Very Low,Contract_One year: +0.015,Dependents: +0.011,Online Backup: +0.001
+4034,0.0002,0,Very Low,Contract_Two year: +0.039,Internet Service_Fiber optic: +0.035,Contract_One year: +0.024
+4427,0.0002,0,Very Low,Internet Service_Fiber optic: +0.066,Contract_Two year: +0.058,Contract_One year: +0.033
+6621,0.0002,0,Very Low,Contract_Two year: +0.039,Payment Method_Electronic check: +0.027,Contract_One year: +0.018
+6005,0.0002,0,Very Low,Contract_Two year: +0.048,Internet Service_Fiber optic: +0.043,Streaming Movies: +0.037
+3975,0.0002,0,Very Low,Internet Service_Fiber optic: +0.058,Contract_Two year: +0.052,Contract_One year: +0.025
+3411,0.0002,0,Very Low,Contract_Two year: +0.043,Internet Service_Fiber optic: +0.034,Contract_One year: +0.028
+5147,0.0002,0,Very Low,Contract_Two year: +0.037,Contract_One year: +0.025,Payment Method_Electronic check: +0.024
+4260,0.0002,0,Very Low,Contract_One year: +0.015,Total Charges: +0.002,Online Backup: +0.001
+4773,0.0002,0,Very Low,Tenure Months: +0.040,Contract_Two year: +0.029,Online Backup: +0.001
+5989,0.0002,0,Very Low,Tenure Months: +0.079,Contract_Two year: +0.050,Contract_One year: +0.037
+5615,0.0002,0,Very Low,Payment Method_Electronic check: +0.038,Internet Service_Fiber optic: +0.033,Contract_One year: +0.015
+5505,0.0002,0,Very Low,Contract_Two year: +0.040,Contract_One year: +0.032,Dependents: +0.015
+4237,0.0002,0,Very Low,Contract_Two year: +0.047,Tenure Months: +0.040,Contract_One year: +0.033
+2861,0.0002,0,Very Low,Contract_One year: +0.014,Dependents: +0.011,Paperless Billing: +0.001
+1874,0.0002,0,Very Low,Contract_Two year: +0.036,Zip Code: +0.025,Dependents: +0.013
+5163,0.0002,0,Very Low,Internet Service_Fiber optic: +0.063,Contract_Two year: +0.053,Contract_One year: +0.026
+5334,0.0002,0,Very Low,Internet Service_Fiber optic: +0.033,Payment Method_Electronic check: +0.029,Dependents: +0.019
+4020,0.0002,0,Very Low,Contract_Two year: +0.043,Streaming Movies: +0.034,Dependents: +0.022
+5214,0.0002,0,Very Low,Contract_Two year: +0.049,Contract_One year: +0.019,Dependents: +0.015
+3016,0.0002,0,Very Low,Contract_Two year: +0.043,Contract_One year: +0.031,Dependents: +0.015
+5745,0.0002,0,Very Low,Internet Service_Fiber optic: +0.066,Contract_Two year: +0.053,Contract_One year: +0.035
+3591,0.0002,0,Very Low,Contract_One year: +0.015,Online Backup: +0.001,Gender: +0.000
+4851,0.0002,0,Very Low,Contract_Two year: +0.046,Contract_One year: +0.032,Dependents: +0.014
+2092,0.0002,0,Very Low,Contract_Two year: +0.037,Streaming Movies: +0.032,Dependents: +0.021
+3786,0.0002,0,Very Low,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.057,Contract_One year: +0.030
+5625,0.0002,0,Very Low,CLTV: +0.029,Dependents: +0.018,Contract_One year: +0.016
+3537,0.0002,0,Very Low,Tenure Months: +0.031,Contract_One year: +0.016,Dependents: +0.010
+4991,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.012,Streaming Movies: +0.005
+2638,0.0002,0,Very Low,Monthly Charges: +0.029,Internet Service_Fiber optic: +0.026,Contract_One year: +0.014
+7013,0.0002,0,Very Low,Monthly Charges: +0.051,Internet Service_Fiber optic: +0.035,Dependents: +0.019
+2432,0.0002,0,Very Low,Tenure Months: +0.091,Contract_Two year: +0.064,Internet Service_Fiber optic: +0.054
+3622,0.0002,0,Very Low,Contract_Two year: +0.029,Internet Service_No: +0.003,Paperless Billing: +0.001
+3904,0.0002,0,Very Low,Contract_Two year: +0.041,Contract_One year: +0.027,Payment Method_Electronic check: +0.026
+3200,0.0002,0,Very Low,Internet Service_Fiber optic: +0.063,Contract_Two year: +0.057,Contract_One year: +0.042
+2745,0.0002,0,Very Low,Contract_Two year: +0.042,Internet Service_Fiber optic: +0.034,Contract_One year: +0.027
+3850,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Phone Service: +0.005
+4874,0.0002,0,Very Low,Internet Service_Fiber optic: +0.073,Tenure Months: +0.070,Contract_Two year: +0.063
+6457,0.0002,0,Very Low,Internet Service_Fiber optic: +0.033,Dependents: +0.027,Payment Method_Electronic check: +0.027
+4262,0.0002,0,Very Low,Contract_Two year: +0.039,Contract_One year: +0.027,Payment Method_Electronic check: +0.024
+3630,0.0002,0,Very Low,Contract_Two year: +0.034,Contract_One year: +0.027,Payment Method_Electronic check: +0.026
+5453,0.0002,0,Very Low,Monthly Charges: +0.045,Internet Service_Fiber optic: +0.035,Dependents: +0.019
+3443,0.0002,0,Very Low,Payment Method_Electronic check: +0.040,Dependents: +0.012,Contract_One year: +0.011
+3238,0.0002,0,Very Low,Contract_One year: +0.016,Zip Code: +0.004,Total Charges: +0.001
+4218,0.0002,0,Very Low,Internet Service_Fiber optic: +0.035,Monthly Charges: +0.020,Dependents: +0.019
+6699,0.0002,0,Very Low,Contract_Two year: +0.033,Dependents: +0.014,Internet Service_No: +0.003
+4348,0.0002,0,Very Low,Contract_Two year: +0.044,Contract_One year: +0.031,Dependents: +0.012
+4929,0.0002,0,Very Low,Dependents: +0.014,CLTV: +0.014,Contract_One year: +0.012
+5237,0.0002,0,Very Low,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.057,Contract_One year: +0.041
+3193,0.0002,0,Very Low,Contract_Two year: +0.042,Contract_One year: +0.032,Zip Code: +0.009
+2015,0.0002,0,Very Low,Internet Service_Fiber optic: +0.061,Contract_Two year: +0.052,Contract_One year: +0.035
+2286,0.0002,0,Very Low,Internet Service_Fiber optic: +0.066,Contract_Two year: +0.058,Tenure Months: +0.051
+3827,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Online Backup: +0.001
+4648,0.0002,0,Very Low,Contract_Two year: +0.038,Payment Method_Electronic check: +0.026,Contract_One year: +0.024
+5171,0.0002,0,Very Low,Tenure Months: +0.077,Contract_Two year: +0.048,Contract_One year: +0.034
+6702,0.0002,0,Very Low,Internet Service_Fiber optic: +0.071,Tenure Months: +0.067,Contract_Two year: +0.056
+7028,0.0002,0,Very Low,Internet Service_Fiber optic: +0.059,Contract_Two year: +0.055,Contract_One year: +0.042
+4490,0.0002,0,Very Low,Contract_One year: +0.012,Dependents: +0.011,Streaming Movies: +0.005
+1995,0.0002,0,Very Low,Contract_Two year: +0.032,Tenure Months: +0.025,Dependents: +0.012
+3991,0.0002,0,Very Low,Internet Service_Fiber optic: +0.063,Contract_Two year: +0.055,Contract_One year: +0.035
+3010,0.0002,0,Very Low,Contract_One year: +0.015,CLTV: +0.014,Dependents: +0.013
+4920,0.0002,0,Very Low,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.055,Contract_One year: +0.038
+6938,0.0002,0,Very Low,Internet Service_Fiber optic: +0.035,Contract_Two year: +0.032,Monthly Charges: +0.008
+6992,0.0002,0,Very Low,Contract_Two year: +0.042,Internet Service_Fiber optic: +0.038,Streaming Movies: +0.028
+5860,0.0002,0,Very Low,Internet Service_Fiber optic: +0.039,Contract_Two year: +0.037,Dependents: +0.016
+5604,0.0002,0,Very Low,Contract_One year: +0.013,Dependents: +0.010,Phone Service: +0.005
+2568,0.0002,0,Very Low,Tenure Months: +0.072,Contract_One year: +0.014,Dependents: +0.010
+5644,0.0002,0,Very Low,Tenure Months: +0.083,Internet Service_Fiber optic: +0.067,Contract_Two year: +0.064
+4373,0.0002,0,Very Low,Payment Method_Electronic check: +0.039,Contract_Two year: +0.032,Dependents: +0.013
+3828,0.0002,0,Very Low,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.057,Contract_One year: +0.041
+5364,0.0002,0,Very Low,Internet Service_Fiber optic: +0.069,Contract_Two year: +0.059,Contract_One year: +0.040
+5111,0.0002,0,Very Low,Contract_Two year: +0.039,Contract_One year: +0.028,Internet Service_No: +0.005
+4025,0.0002,0,Very Low,Contract_One year: +0.012,Dependents: +0.011,Phone Service: +0.005
+5986,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Tenure Months: +0.011
+3151,0.0002,0,Very Low,Internet Service_Fiber optic: +0.039,Contract_Two year: +0.037,Dependents: +0.014
+2515,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Phone Service: +0.005
+2393,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Internet Service_No: +0.003
+2823,0.0002,0,Very Low,Contract_Two year: +0.033,Dependents: +0.014,Internet Service_No: +0.003
+3770,0.0002,0,Very Low,Contract_One year: +0.015,Total Charges: +0.001,Online Backup: +0.001
+3181,0.0002,0,Very Low,Monthly Charges: +0.075,Total Charges: +0.035,Internet Service_Fiber optic: +0.033
+4862,0.0002,0,Very Low,Contract_Two year: +0.047,Contract_One year: +0.031,Dependents: +0.014
+5959,0.0002,0,Very Low,Contract_Two year: +0.043,Contract_One year: +0.030,Dependents: +0.013
+2171,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Paperless Billing: +0.001
+1994,0.0002,0,Very Low,Contract_One year: +0.013,Dependents: +0.011,Streaming Movies: +0.004
+4073,0.0002,0,Very Low,Contract_Two year: +0.027,Longitude: +0.003,Paperless Billing: +0.001
+5399,0.0002,0,Very Low,Contract_One year: +0.015,Dependents: +0.011,Online Backup: +0.001
+6819,0.0002,0,Very Low,Contract_Two year: +0.041,Payment Method_Electronic check: +0.026,Contract_One year: +0.022
+3895,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Internet Service_No: +0.003
+6923,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Online Backup: +0.001
+6665,0.0002,0,Very Low,Contract_Two year: +0.030,Internet Service_Fiber optic: +0.027,Payment Method_Electronic check: +0.027
+3723,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Online Backup: +0.001
+3500,0.0002,0,Very Low,Dependents: +0.011,Contract_One year: +0.011,Streaming Movies: +0.005
+2684,0.0002,0,Very Low,Internet Service_Fiber optic: +0.070,Tenure Months: +0.068,Contract_Two year: +0.061
+2149,0.0002,0,Very Low,Tenure Months: +0.101,Contract_Two year: +0.056,Contract_One year: +0.041
+6909,0.0002,0,Very Low,Contract_Two year: +0.041,Contract_One year: +0.031,Longitude: +0.005
+6015,0.0002,0,Very Low,Contract_Two year: +0.047,Contract_One year: +0.031,Dependents: +0.015
+2788,0.0002,0,Very Low,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.055,Contract_One year: +0.026
+6301,0.0002,0,Very Low,Contract_Two year: +0.044,Contract_One year: +0.030,Dependents: +0.014
+6232,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Online Backup: +0.001
+6229,0.0002,0,Very Low,CLTV: +0.035,Contract_One year: +0.015,Online Backup: +0.001
+5236,0.0002,0,Very Low,Contract_Two year: +0.045,Contract_One year: +0.031,Tenure Months: +0.025
+3339,0.0002,0,Very Low,Internet Service_Fiber optic: +0.060,Contract_Two year: +0.055,Contract_One year: +0.034
+3717,0.0002,0,Very Low,Contract_Two year: +0.029,Internet Service_No: +0.003,Monthly Charges: +0.002
+6738,0.0002,0,Very Low,Tenure Months: +0.061,Internet Service_Fiber optic: +0.045,Contract_Two year: +0.045
+2934,0.0002,0,Very Low,Tenure Months: +0.124,Contract_Two year: +0.051,Contract_One year: +0.038
+4693,0.0002,0,Very Low,Contract_Two year: +0.033,Dependents: +0.014,Internet Service_No: +0.003
+2715,0.0002,0,Very Low,Contract_Two year: +0.046,Contract_One year: +0.030,Dependents: +0.015
+4989,0.0002,0,Very Low,Contract_One year: +0.013,Streaming Movies: +0.004,Internet Service_No: +0.003
+4481,0.0002,0,Very Low,Tenure Months: +0.095,Contract_Two year: +0.065,Internet Service_Fiber optic: +0.053
+4482,0.0002,0,Very Low,Contract_Two year: +0.030,Internet Service_No: +0.003,Zip Code: +0.002
+6761,0.0002,0,Very Low,Contract_One year: +0.021,Zip Code: +0.005,Online Backup: +0.001
+5513,0.0002,0,Very Low,Tenure Months: +0.080,Contract_Two year: +0.049,Contract_One year: +0.034
+3712,0.0002,0,Very Low,Tenure Months: +0.071,Internet Service_Fiber optic: +0.070,Contract_Two year: +0.061
+6075,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Internet Service_No: +0.003
+4155,0.0002,0,Very Low,Contract_Two year: +0.032,Dependents: +0.014,Online Backup: +0.001
+4643,0.0002,0,Very Low,Contract_Two year: +0.044,Contract_One year: +0.028,Payment Method_Electronic check: +0.025
+5016,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.011,Streaming Movies: +0.005
+4593,0.0002,0,Very Low,Contract_Two year: +0.033,Dependents: +0.014,Internet Service_No: +0.003
+4956,0.0002,0,Very Low,Payment Method_Electronic check: +0.026,Internet Service_Fiber optic: +0.024,Monthly Charges: +0.019
+4599,0.0002,0,Very Low,Tenure Months: +0.040,Contract_Two year: +0.029,Longitude: +0.002
+3505,0.0002,0,Very Low,Contract_Two year: +0.042,Internet Service_Fiber optic: +0.035,Contract_One year: +0.026
+6600,0.0002,0,Very Low,Contract_Two year: +0.029,Internet Service_No: +0.003,Paperless Billing: +0.001
+4800,0.0002,0,Very Low,Contract_One year: +0.015,Online Backup: +0.001,Gender: +0.000
+5782,0.0002,0,Very Low,Contract_Two year: +0.041,Contract_One year: +0.026,Payment Method_Electronic check: +0.022
+4254,0.0002,0,Very Low,Contract_Two year: +0.041,Contract_One year: +0.028,Total Charges: +0.009
+2075,0.0002,0,Very Low,Contract_Two year: +0.046,Contract_One year: +0.022,Dependents: +0.014
+4767,0.0002,0,Very Low,Contract_Two year: +0.049,Tenure Months: +0.029,Contract_One year: +0.020
+5578,0.0002,0,Very Low,Contract_Two year: +0.050,Tenure Months: +0.037,Contract_One year: +0.033
+3764,0.0002,0,Very Low,Contract_Two year: +0.031,Dependents: +0.014,Online Backup: +0.001
+3679,0.0002,0,Very Low,Internet Service_Fiber optic: +0.071,Tenure Months: +0.070,Contract_Two year: +0.061
+4380,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.010,Total Charges: +0.002
+3177,0.0002,0,Very Low,Contract_Two year: +0.036,Streaming Movies: +0.031,Dependents: +0.019
+3725,0.0002,0,Very Low,Monthly Charges: +0.075,Internet Service_Fiber optic: +0.035,Dependents: +0.026
+4780,0.0002,0,Very Low,Contract_Two year: +0.040,Payment Method_Electronic check: +0.025,Contract_One year: +0.018
+2408,0.0002,0,Very Low,Internet Service_Fiber optic: +0.065,Contract_Two year: +0.058,Contract_One year: +0.030
+5289,0.0002,0,Very Low,Contract_Two year: +0.045,Contract_One year: +0.027,Dependents: +0.015
+3123,0.0002,0,Very Low,Contract_Two year: +0.042,Contract_One year: +0.032,Payment Method_Electronic check: +0.024
+3685,0.0002,0,Very Low,Payment Method_Electronic check: +0.052,Contract_Two year: +0.040,Internet Service_Fiber optic: +0.039
+5666,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.010,Total Charges: +0.002
+2069,0.0002,0,Very Low,Contract_One year: +0.012,Dependents: +0.011,Streaming Movies: +0.005
+2763,0.0002,0,Very Low,Tenure Months: +0.090,Contract_Two year: +0.062,Internet Service_Fiber optic: +0.051
+3910,0.0002,0,Very Low,Contract_Two year: +0.037,Internet Service_Fiber optic: +0.027,Contract_One year: +0.024
+4683,0.0002,0,Very Low,Tenure Months: +0.068,Contract_Two year: +0.046,Internet Service_Fiber optic: +0.037
+3756,0.0002,0,Very Low,Contract_One year: +0.015,Total Charges: +0.002,Online Backup: +0.001
+5204,0.0002,0,Very Low,Contract_Two year: +0.039,Contract_One year: +0.029,Payment Method_Electronic check: +0.028
+4604,0.0002,0,Very Low,Tenure Months: +0.025,Contract_One year: +0.016,Dependents: +0.011
+5723,0.0002,0,Very Low,Contract_Two year: +0.048,Contract_One year: +0.033,Tenure Months: +0.028
+2542,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.011,Streaming Movies: +0.005
+4415,0.0002,0,Very Low,Internet Service_Fiber optic: +0.038,Contract_Two year: +0.032,Zip Code: +0.009
+4783,0.0002,0,Very Low,Tenure Months: +0.096,Contract_Two year: +0.052,Contract_One year: +0.037
+6920,0.0002,0,Very Low,Internet Service_Fiber optic: +0.039,Contract_Two year: +0.037,Dependents: +0.015
+4655,0.0002,0,Very Low,Contract_Two year: +0.031,Dependents: +0.014,Total Charges: +0.001
+3800,0.0002,0,Very Low,Internet Service_Fiber optic: +0.062,Contract_Two year: +0.053,Contract_One year: +0.028
+3256,0.0002,0,Very Low,Tenure Months: +0.091,Contract_Two year: +0.054,Contract_One year: +0.042
+4088,0.0002,0,Very Low,Contract_Two year: +0.037,Contract_One year: +0.026,Total Charges: +0.002
+6416,0.0002,0,Very Low,Contract_Two year: +0.032,Internet Service_Fiber optic: +0.030,Payment Method_Electronic check: +0.026
+4572,0.0002,0,Very Low,Contract_Two year: +0.047,Tenure Months: +0.036,Contract_One year: +0.029
+5441,0.0002,0,Very Low,Streaming Movies: +0.043,Internet Service_Fiber optic: +0.040,Contract_Two year: +0.035
+2683,0.0002,0,Very Low,Contract_Two year: +0.031,Dependents: +0.014,Paperless Billing: +0.002
+3602,0.0002,0,Very Low,Tenure Months: +0.079,Internet Service_Fiber optic: +0.064,Contract_Two year: +0.062
+6019,0.0002,0,Very Low,Contract_Two year: +0.032,Dependents: +0.014,Online Backup: +0.001
+5341,0.0002,0,Very Low,Tenure Months: +0.071,Internet Service_Fiber optic: +0.071,Contract_Two year: +0.061
+3329,0.0002,0,Very Low,Contract_One year: +0.015,Dependents: +0.011,Online Backup: +0.001
+2324,0.0002,0,Very Low,Monthly Charges: +0.075,Internet Service_Fiber optic: +0.033,Payment Method_Electronic check: +0.026
+3562,0.0002,0,Very Low,Contract_Two year: +0.041,Internet Service_Fiber optic: +0.035,Contract_One year: +0.024
+5512,0.0002,0,Very Low,Internet Service_Fiber optic: +0.037,Contract_Two year: +0.032,Monthly Charges: +0.004
+4747,0.0002,0,Very Low,Internet Service_Fiber optic: +0.060,Contract_Two year: +0.056,Contract_One year: +0.041
+5465,0.0002,0,Very Low,Contract_Two year: +0.028,Internet Service_No: +0.003,Paperless Billing: +0.001
+2066,0.0002,0,Very Low,Internet Service_Fiber optic: +0.055,Contract_Two year: +0.053,Contract_One year: +0.031
+5466,0.0002,0,Very Low,Contract_Two year: +0.031,Streaming Movies: +0.013,Internet Service_No: +0.003
+6444,0.0002,0,Very Low,Tenure Months: +0.040,Contract_One year: +0.014,Phone Service: +0.006
+2987,0.0002,0,Very Low,Contract_Two year: +0.043,Internet Service_Fiber optic: +0.038,Streaming Movies: +0.028
+5149,0.0002,0,Very Low,Contract_One year: +0.015,Paperless Billing: +0.001,Online Backup: +0.001
+4083,0.0002,0,Very Low,Tenure Months: +0.092,Contract_Two year: +0.033,Total Charges: +0.022
+6744,0.0002,0,Very Low,Contract_Two year: +0.030,Dependents: +0.013,Internet Service_No: +0.003
+6760,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.010,Zip Code: +0.001
+4607,0.0002,0,Very Low,Contract_Two year: +0.030,Streaming Movies: +0.012,Internet Service_No: +0.003
+3549,0.0002,0,Very Low,Internet Service_Fiber optic: +0.073,Tenure Months: +0.068,Contract_Two year: +0.060
+6060,0.0002,0,Very Low,Internet Service_Fiber optic: +0.063,Contract_Two year: +0.055,Contract_One year: +0.039
+2812,0.0002,0,Very Low,Contract_One year: +0.015,Paperless Billing: +0.001,Online Backup: +0.001
+4844,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Total Charges: +0.002
+3125,0.0002,0,Very Low,Internet Service_Fiber optic: +0.036,Contract_One year: +0.019,Monthly Charges: +0.018
+6988,0.0002,0,Very Low,Streaming Movies: +0.041,Contract_Two year: +0.038,Dependents: +0.021
+4804,0.0002,0,Very Low,Contract_Two year: +0.033,Dependents: +0.015,Monthly Charges: +0.004
+3257,0.0002,0,Very Low,Contract_Two year: +0.049,Contract_One year: +0.024,Dependents: +0.013
+5135,0.0002,0,Very Low,Internet Service_Fiber optic: +0.046,Contract_Two year: +0.043,Streaming Movies: +0.039
+4169,0.0002,0,Very Low,Internet Service_Fiber optic: +0.030,Contract_Two year: +0.026,Payment Method_Electronic check: +0.025
+1946,0.0002,0,Very Low,Tenure Months: +0.113,Contract_Two year: +0.048,Contract_One year: +0.037
+2890,0.0002,0,Very Low,Contract_Two year: +0.041,Contract_One year: +0.028,Total Charges: +0.007
+3424,0.0002,0,Very Low,Contract_Two year: +0.040,Internet Service_Fiber optic: +0.032,Contract_One year: +0.025
+3087,0.0002,0,Very Low,Tenure Months: +0.087,Contract_Two year: +0.040,Zip Code: +0.026
+6498,0.0002,0,Very Low,Contract_Two year: +0.032,Internet Service_Fiber optic: +0.031,Payment Method_Electronic check: +0.025
+6592,0.0002,0,Very Low,Internet Service_Fiber optic: +0.058,Contract_Two year: +0.055,Contract_One year: +0.042
+4360,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.010,Zip Code: +0.001
+6461,0.0002,0,Very Low,Contract_Two year: +0.040,Streaming Movies: +0.033,Payment Method_Electronic check: +0.028
+5318,0.0002,0,Very Low,Contract_Two year: +0.040,Contract_One year: +0.031,Phone Service: +0.014
+2864,0.0002,0,Very Low,Contract_Two year: +0.036,Contract_One year: +0.025,Payment Method_Electronic check: +0.023
+3232,0.0002,0,Very Low,Contract_Two year: +0.028,Dependents: +0.014,CLTV: +0.009
+3867,0.0002,0,Very Low,Contract_Two year: +0.030,Streaming Movies: +0.012,Internet Service_No: +0.003
+3726,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Paperless Billing: +0.001
+5541,0.0002,0,Very Low,Contract_Two year: +0.032,Zip Code: +0.031,Streaming Movies: +0.003
+2629,0.0002,0,Very Low,Internet Service_Fiber optic: +0.056,Contract_Two year: +0.053,Contract_One year: +0.028
+4485,0.0002,0,Very Low,Contract_Two year: +0.047,Contract_One year: +0.034,Dependents: +0.012
+2210,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Online Backup: +0.001
+5301,0.0002,0,Very Low,Tenure Months: +0.090,Contract_Two year: +0.062,Internet Service_Fiber optic: +0.051
+2585,0.0002,0,Very Low,Contract_Two year: +0.045,Contract_One year: +0.019,Dependents: +0.016
+5238,0.0002,0,Very Low,Internet Service_Fiber optic: +0.058,Contract_Two year: +0.046,Contract_One year: +0.024
+2104,0.0002,0,Very Low,Streaming Movies: +0.043,Internet Service_Fiber optic: +0.040,Contract_Two year: +0.034
+3119,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.010,Internet Service_No: +0.003
+5179,0.0002,0,Very Low,Internet Service_Fiber optic: +0.058,Contract_Two year: +0.056,Contract_One year: +0.028
+2464,0.0002,0,Very Low,Contract_Two year: +0.042,Streaming Movies: +0.040,Dependents: +0.022
+2361,0.0002,0,Very Low,Contract_Two year: +0.042,Streaming Movies: +0.041,Dependents: +0.022
+2428,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,CLTV: +0.004
+3439,0.0002,0,Very Low,Contract_One year: +0.012,Dependents: +0.011,Streaming Movies: +0.005
+3693,0.0002,0,Very Low,Contract_Two year: +0.032,Internet Service_Fiber optic: +0.030,Payment Method_Electronic check: +0.027
+4165,0.0002,0,Very Low,Internet Service_Fiber optic: +0.034,Dependents: +0.028,Monthly Charges: +0.020
+6826,0.0002,0,Very Low,Contract_One year: +0.014,Zip Code: +0.004,Streaming Movies: +0.004
+3362,0.0002,0,Very Low,Contract_Two year: +0.030,Dependents: +0.014,Internet Service_No: +0.003
+2273,0.0002,0,Very Low,Contract_Two year: +0.048,Contract_One year: +0.020,Tenure Months: +0.017
+5288,0.0002,0,Very Low,Contract_Two year: +0.044,Contract_One year: +0.028,Dependents: +0.015
+6974,0.0002,0,Very Low,Contract_Two year: +0.042,Contract_One year: +0.028,Phone Service: +0.014
+4834,0.0002,0,Very Low,Monthly Charges: +0.075,Internet Service_Fiber optic: +0.035,Dependents: +0.034
+4977,0.0002,0,Very Low,Payment Method_Electronic check: +0.041,Contract_Two year: +0.027,Internet Service_No: +0.003
+6596,0.0002,0,Very Low,Contract_One year: +0.015,CLTV: +0.006,Online Backup: +0.001
+3547,0.0002,0,Very Low,Contract_Two year: +0.047,Tenure Months: +0.034,Contract_One year: +0.029
+4495,0.0002,0,Very Low,Tenure Months: +0.056,Contract_Two year: +0.048,Internet Service_Fiber optic: +0.047
+6141,0.0002,0,Very Low,Contract_One year: +0.015,Online Backup: +0.001,Payment Method_Mailed check: +0.000
+3025,0.0002,0,Very Low,Internet Service_Fiber optic: +0.069,Tenure Months: +0.051,Contract_Two year: +0.050
+4019,0.0002,0,Very Low,Contract_One year: +0.012,Dependents: +0.011,Phone Service: +0.005
+3234,0.0002,0,Very Low,Contract_Two year: +0.031,Dependents: +0.013,Total Charges: +0.001
+6434,0.0002,0,Very Low,Internet Service_Fiber optic: +0.058,Contract_Two year: +0.052,Contract_One year: +0.028
+2343,0.0002,0,Very Low,Internet Service_Fiber optic: +0.059,Contract_Two year: +0.054,Contract_One year: +0.035
+4562,0.0002,0,Very Low,Internet Service_Fiber optic: +0.071,Tenure Months: +0.069,Contract_Two year: +0.061
+2635,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Online Backup: +0.001
+6932,0.0002,0,Very Low,Tenure Months: +0.091,Contract_Two year: +0.065,Internet Service_Fiber optic: +0.054
+2124,0.0002,0,Very Low,Contract_Two year: +0.031,Dependents: +0.014,Paperless Billing: +0.002
+4163,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Paperless Billing: +0.001
+5821,0.0002,0,Very Low,Internet Service_Fiber optic: +0.056,Contract_Two year: +0.051,Contract_One year: +0.028
+2885,0.0002,0,Very Low,Tenure Months: +0.091,Contract_Two year: +0.063,Internet Service_Fiber optic: +0.054
+3859,0.0002,0,Very Low,Contract_Two year: +0.041,Streaming Movies: +0.037,Dependents: +0.021
+1988,0.0002,0,Very Low,Internet Service_Fiber optic: +0.063,Contract_Two year: +0.058,Contract_One year: +0.042
+4134,0.0002,0,Very Low,Contract_Two year: +0.046,Contract_One year: +0.032,Tenure Months: +0.016
+6789,0.0002,0,Very Low,Internet Service_Fiber optic: +0.037,Contract_One year: +0.019,Monthly Charges: +0.019
+6365,0.0002,0,Very Low,Internet Service_Fiber optic: +0.061,Contract_Two year: +0.057,Contract_One year: +0.030
+2406,0.0002,0,Very Low,Internet Service_Fiber optic: +0.061,Contract_Two year: +0.056,Contract_One year: +0.042
+2264,0.0002,0,Very Low,Contract_One year: +0.015,Longitude: +0.001,Online Backup: +0.001
+3626,0.0002,0,Very Low,Contract_Two year: +0.037,Payment Method_Electronic check: +0.025,Contract_One year: +0.025
+5196,0.0002,0,Very Low,Contract_Two year: +0.037,Contract_One year: +0.027,Total Charges: +0.001
+4074,0.0002,0,Very Low,Contract_One year: +0.013,Streaming Movies: +0.004,Internet Service_No: +0.003
+3222,0.0002,0,Very Low,Internet Service_Fiber optic: +0.071,Tenure Months: +0.069,Contract_Two year: +0.061
+4358,0.0002,0,Very Low,Contract_One year: +0.016,Zip Code: +0.005,Longitude: +0.001
+5451,0.0002,0,Very Low,Contract_Two year: +0.041,Streaming Movies: +0.039,Internet Service_Fiber optic: +0.038
+4543,0.0002,0,Very Low,Internet Service_Fiber optic: +0.065,Contract_Two year: +0.057,Contract_One year: +0.042
+5896,0.0002,0,Very Low,Contract_Two year: +0.041,Streaming Movies: +0.036,Dependents: +0.021
+2797,0.0002,0,Very Low,Tenure Months: +0.109,Contract_Two year: +0.057,Contract_One year: +0.038
+6477,0.0002,0,Very Low,Contract_Two year: +0.036,Payment Method_Electronic check: +0.029,Streaming Movies: +0.026
+1986,0.0002,0,Very Low,Contract_Two year: +0.044,Tenure Months: +0.041,Contract_One year: +0.032
+4468,0.0002,0,Very Low,Internet Service_Fiber optic: +0.029,Monthly Charges: +0.028,Payment Method_Electronic check: +0.026
+4112,0.0002,0,Very Low,Contract_Two year: +0.032,Dependents: +0.014,Phone Service: +0.004
+3951,0.0002,0,Very Low,Contract_Two year: +0.032,Dependents: +0.014,Online Backup: +0.001
+4807,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.011,Streaming Movies: +0.005
+2653,0.0002,0,Very Low,Contract_Two year: +0.046,Contract_One year: +0.031,Dependents: +0.015
+6545,0.0002,0,Very Low,Monthly Charges: +0.075,Internet Service_Fiber optic: +0.035,Dependents: +0.026
+6420,0.0002,0,Very Low,Contract_Two year: +0.040,Internet Service_Fiber optic: +0.038,Streaming Movies: +0.028
+3869,0.0002,0,Very Low,Contract_Two year: +0.040,Payment Method_Electronic check: +0.025,Contract_One year: +0.018
+4577,0.0002,0,Very Low,Tenure Months: +0.065,Contract_Two year: +0.052,Contract_One year: +0.036
+6527,0.0002,0,Very Low,Payment Method_Electronic check: +0.043,Contract_Two year: +0.024,Phone Service: +0.010
+3838,0.0002,0,Very Low,Internet Service_Fiber optic: +0.033,Contract_Two year: +0.030,Monthly Charges: +0.006
+6027,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Paperless Billing: +0.001
+5355,0.0002,0,Very Low,Contract_Two year: +0.033,Dependents: +0.015,Internet Service_No: +0.003
+2371,0.0002,0,Very Low,Contract_One year: +0.015,Online Backup: +0.001,Gender: +0.000
+2557,0.0002,0,Very Low,Internet Service_Fiber optic: +0.057,Contract_Two year: +0.055,Contract_One year: +0.038
+3180,0.0002,0,Very Low,Tenure Months: +0.118,Contract_Two year: +0.054,Contract_One year: +0.043
+5869,0.0002,0,Very Low,Contract_One year: +0.015,Internet Service_No: +0.003,Longitude: +0.002
+2226,0.0002,0,Very Low,Contract_Two year: +0.038,Contract_One year: +0.025,Payment Method_Electronic check: +0.023
+6598,0.0002,0,Very Low,Contract_Two year: +0.033,Dependents: +0.014,Internet Service_No: +0.003
+4652,0.0002,0,Very Low,Contract_One year: +0.015,Total Charges: +0.002,Longitude: +0.001
+4072,0.0002,0,Very Low,Contract_One year: +0.015,Dependents: +0.011,Longitude: +0.001
+3169,0.0002,0,Very Low,Contract_Two year: +0.032,Dependents: +0.013,Internet Service_No: +0.003
+4570,0.0002,0,Very Low,Latitude: +0.022,Dependents: +0.017,Contract_One year: +0.016
+3278,0.0002,0,Very Low,Tenure Months: +0.039,Contract_Two year: +0.032,Dependents: +0.013
+6677,0.0002,0,Very Low,Contract_Two year: +0.044,Payment Method_Electronic check: +0.022,Contract_One year: +0.016
+6154,0.0002,0,Very Low,Internet Service_Fiber optic: +0.060,Contract_Two year: +0.054,Contract_One year: +0.039
+5592,0.0002,0,Very Low,Contract_Two year: +0.041,Internet Service_Fiber optic: +0.038,Payment Method_Electronic check: +0.026
+5613,0.0002,0,Very Low,Internet Service_Fiber optic: +0.035,Contract_Two year: +0.033,Streaming Movies: +0.010
+3454,0.0002,0,Very Low,Contract_One year: +0.015,Total Charges: +0.002,Longitude: +0.002
+6337,0.0002,0,Very Low,Contract_Two year: +0.028,Online Backup: +0.001,Tech Support: +0.000
+2928,0.0002,0,Very Low,Tenure Months: +0.038,Contract_Two year: +0.033,Dependents: +0.013
+6756,0.0002,0,Very Low,Contract_Two year: +0.047,Tenure Months: +0.036,Contract_One year: +0.032
+1923,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.010,Paperless Billing: +0.001
+5375,0.0002,0,Very Low,Contract_Two year: +0.031,Dependents: +0.014,Total Charges: +0.001
+6776,0.0002,0,Very Low,Contract_Two year: +0.047,Contract_One year: +0.032,Tenure Months: +0.028
+2791,0.0002,0,Very Low,Internet Service_Fiber optic: +0.035,Monthly Charges: +0.021,Dependents: +0.019
+2938,0.0002,0,Very Low,Contract_Two year: +0.046,Contract_One year: +0.030,Dependents: +0.015
+2233,0.0002,0,Very Low,Dependents: +0.012,Contract_One year: +0.011,Streaming Movies: +0.005
+5290,0.0002,0,Very Low,Contract_One year: +0.015,Paperless Billing: +0.001,Online Backup: +0.001
+2204,0.0002,0,Very Low,Contract_One year: +0.016,Dependents: +0.011,Paperless Billing: +0.001
+6781,0.0002,0,Very Low,Contract_One year: +0.017,Dependents: +0.009,Phone Service: +0.005
+4030,0.0002,0,Very Low,Tenure Months: +0.093,Contract_Two year: +0.062,Internet Service_Fiber optic: +0.050
+2666,0.0002,0,Very Low,Internet Service_Fiber optic: +0.058,Contract_Two year: +0.051,Contract_One year: +0.026
+6402,0.0002,0,Very Low,Tenure Months: +0.071,Contract_Two year: +0.031,Payment Method_Mailed check: +0.001
+6000,0.0002,0,Very Low,Contract_One year: +0.015,Internet Service_No: +0.003,Paperless Billing: +0.001

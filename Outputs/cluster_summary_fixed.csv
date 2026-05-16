@@ -1,0 +1,5 @@
+cluster_id,cluster_name,n_customers,avg_churn_prob,pct_of_at_risk,top_driver_1,top_driver_2,top_driver_3,urgency
+0,Short Tenure — No Long-Term Contract,213,75.8%,56.9%,Short tenure (new customer),No two-year contract,No annual contract,High
+1,Fiber Optic — No Committed Contract,123,77.7%,32.9%,Fiber optic internet service,No two-year contract,No annual contract,High
+2,Critical Risk — Contract Not Retaining,26,92.6%,6.9%,Extremely high base churn risk,Fiber optic service issues,Annual contract not enough,Critical
+3,Borderline Risk — Family Account,12,50.2%,3.2%,Low monthly charges,No two-year contract,Has dependents (protecting),Medium
