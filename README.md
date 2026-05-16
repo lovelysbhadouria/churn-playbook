@@ -1,5 +1,5 @@
 # Customer Churn Playbook
-**26% of customers were predicted to churn — this project identifies WHO, WHY, and what to do.**
+**26% of customers were predicted to churn - this project identifies WHO, WHY, and what to do.**
 
 
 ![Dashboard](Dashboard/Dashboard.png)
@@ -9,7 +9,7 @@
 ## What I Found
 
 - **374 at-risk customers** identified from 1,409 test records
-- **Cluster 0 (213 customers, 76% risk):** New customers with no long-term contract — highest volume segment
+- **Cluster 0 (213 customers, 76% risk):** New customers with no long-term contract, highest volume segment
 - **Cluster 2 (26 customers, 93% risk):** Most urgent — even an annual contract isn't retaining them
 - Month-to-month contract customers churn at **42%** vs **3%** for two-year contract customers
 - Customers with 0–12 months tenure churn at **3× the rate** of customers with 4+ years
